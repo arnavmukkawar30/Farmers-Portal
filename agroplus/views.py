@@ -97,10 +97,15 @@ def loginpage(request):
 
         context = {}
         return render(request, 'login.html')
+
+def feedback(request):
+    if request.method == 'POST':
+        return redirect('login')
+    return render(request, 'feedback.html')
     
 def logoutUser(request):
     logout(request)
-    return redirect('login')
+    return redirect('feedback')
 
 
 def registerpage(request):
