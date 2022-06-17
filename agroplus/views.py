@@ -3,7 +3,7 @@ from agroplus.models import Sell,price
 from datetime import datetime
 import requests
 import pandas as pd 
-import json,csv
+import json
 
 # FOR LOGIN AND LOGOUT 
 
@@ -22,7 +22,8 @@ def home(request):
     return render(request, 'home.html')
 
 def farmercorner(request):
-    return render(request, 'farmercorner.html')
+    data = Sell.objects.all()
+    return render(request, 'farmercorner.html',{'data': data})
 
 def Buy(request):
     data = Sell.objects.all()
