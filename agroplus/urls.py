@@ -10,5 +10,5 @@ urlpatterns = [
     path('farmercorner', views.farmercorner, name='farmercorner'),
     path('Buy', views.Buy, name='Buy'),
     path('Sell', views.SellFun, name='Sell'),
-    path('Crop', views.Croprate, name='Crop')
+    path('Croprate', views.Croprate, name='Croprate')
 ] + static(settings.MEDIA_URL, document_root = settings.MEDIA_ROOT) 

@@ -2,7 +2,8 @@ from django.shortcuts import redirect, render,HttpResponse
 from agroplus.models import Sell
 from datetime import datetime
 import requests
-
+import pandas as pd 
+import json
 
 # Create your views here.
 def home(request):
@@ -33,10 +34,42 @@ def SellFun(request):
     return render(request, 'Sell.html')
 
 def Croprate(request):
+    # data = pd.read_csv("../project/static/dataset.csv")
+    # pune_data = data[data['district']=='Pune']
+    # html_table = dataframe.to_html()
+    dataframe = pd.read_csv("./static/dataset.csv")
+    search = 'a'
     if request.method == 'POST':
-        response=requests.get("https://api.data.gov.in/resource/9ef84268-d588-465a-a308-a864a43d0070?api-key=579b464db66ec23bdd000001d9ba49cdb430411759aaafa37e2fe03b&format=json&limit=543").json()
-        response = response["records"]
-        return render(request, 'croprate.html',{'response': response})
-    return render(request, 'croprate.html')
+        search = request.POST.get('district')
+        print(search)
+        if(search != 'a'):
+            dataframe = dataframe[dataframe["District"] == search]
+            dataframe = dataframe
+        # elif(len(search) <= 1):
+        #     # dataframe = dataframe[dataframe["District"] == search]
+        #     print(dataframe)
+        #     # dataframe = pd.read_csv("./static/dataset.csv")
+    else:
+         dataframe = pd.read_csv("./static/dataset.csv")
+         
+    json_records = dataframe.reset_index().to_json(orient ='records')
+    data = []
+    data = json.loads(json_records)
+    context = {'d': data}
+    
+    return render(request, 'croprate.html', context)
 
+
+
+    # context = {
+    #     'html_table' : html_table,
+    #     'data' : data,
+    #     'cols' : data.columns,
+    #     'row_len' : len(data),
+    #     'col_len' : len(data.columns)
+    # }
+
+    # return render(request,'croprate.html', context=context)
+    # return render(request,html_table, context=context)
+    # return HttpResponse(html_table)
 

@@ -1,0 +1,1001 @@
+State,District,Market,Commodity,Variety,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+Maharashtra,Ahmednagar,Kopargaon,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3501,4240,4100
+Maharashtra,Ahmednagar,Kopargaon,Jowar(Sorghum),Other,17/06/2022,1500,2000,1717
+Maharashtra,Ahmednagar,Kopargaon,Maize,Other,17/06/2022,2100,2320,2299
+Maharashtra,Ahmednagar,Kopargaon,Onion,Other,17/06/2022,500,1351,925
+Maharashtra,Ahmednagar,Kopargaon,Soyabean,Other,17/06/2022,5680,6621,6451
+Maharashtra,Ahmednagar,Kopargaon,Wheat,Other,17/06/2022,1500,2291,2111
+Maharashtra,Ahmednagar,Rahata,Beans,Other,17/06/2022,8000,8000,8000
+Maharashtra,Ahmednagar,Rahata,"Bhindi(Ladies Finger)",Other,17/06/2022,3000,4000,3500
+Maharashtra,Ahmednagar,Rahata,"Bitter gourd",Other,17/06/2022,2000,2500,2200
+Maharashtra,Ahmednagar,Rahata,"Bottle gourd",Other,17/06/2022,800,1500,1100
+Maharashtra,Ahmednagar,Rahata,Brinjal,Other,17/06/2022,1000,2000,1500
+Maharashtra,Ahmednagar,Rahata,Cabbage,Other,17/06/2022,800,1500,1100
+Maharashtra,Ahmednagar,Rahata,Carrot,Other,17/06/2022,2500,3000,2700
+Maharashtra,Ahmednagar,Rahata,Cauliflower,Other,17/06/2022,1500,2500,2000
+Maharashtra,Ahmednagar,Rahata,"Chilly Capsicum",Other,17/06/2022,3000,5000,4000
+Maharashtra,Ahmednagar,Rahata,Coriander(Leaves),Other,17/06/2022,10,22,16
+Maharashtra,Ahmednagar,Rahata,Cucumbar(Kheera),Other,17/06/2022,1000,1300,1150
+Maharashtra,Ahmednagar,Rahata,Drumstick,Other,17/06/2022,4000,5500,4700
+Maharashtra,Ahmednagar,Rahata,Garlic,Other,17/06/2022,1500,3000,2200
+Maharashtra,Ahmednagar,Rahata,Ginger(Green),Other,17/06/2022,1000,2000,1500
+Maharashtra,Ahmednagar,Rahata,"Green Chilli",Other,17/06/2022,4000,5000,4500
+Maharashtra,Ahmednagar,Rahata,Guar,Other,17/06/2022,3000,5000,4000
+Maharashtra,Ahmednagar,Rahata,Lime,Other,17/06/2022,3000,3500,3200
+Maharashtra,Ahmednagar,Rahata,Methi(Leaves),Other,17/06/2022,15,20,17
+Maharashtra,Ahmednagar,Rahata,Pomegranate,Other,17/06/2022,1000,17000,4500
+Maharashtra,Ahmednagar,Rahata,Potato,Other,17/06/2022,2000,2300,2150
+Maharashtra,Ahmednagar,Rahata,Ridgeguard(Tori),Other,17/06/2022,2500,3500,3000
+Maharashtra,Ahmednagar,Rahata,Spinach,Other,17/06/2022,5,10,7
+Maharashtra,Ahmednagar,Rahata,Tomato,Other,17/06/2022,2000,5300,3700
+Maharashtra,Ahmednagar,Rahuri(Vambori),"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4000,4000,4000
+Maharashtra,Ahmednagar,Rahuri(Vambori),Jowar(Sorghum),Other,17/06/2022,5503,5503,5503
+Maharashtra,Ahmednagar,Rahuri(Vambori),Soyabean,Other,17/06/2022,6000,6262,6100
+Maharashtra,Ahmednagar,Rahuri(Vambori),Wheat,Other,17/06/2022,1600,2400,2000
+Maharashtra,Ahmednagar,Sangamner,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,2751,2751,2751
+Maharashtra,Ahmednagar,Sangamner,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3590,4211,3900
+Maharashtra,Ahmednagar,Sangamner,"Castor Seed",Other,17/06/2022,5600,5600,5600
+Maharashtra,Ahmednagar,Sangamner,Groundnut,Other,17/06/2022,3600,4000,3800
+Maharashtra,Ahmednagar,Sangamner,Jowar(Sorghum),Other,17/06/2022,1600,2451,2025
+Maharashtra,Ahmednagar,Sangamner,Maize,Other,17/06/2022,2101,2101,2101
+Maharashtra,Ahmednagar,Sangamner,Onion,"1st Sort",17/06/2022,1400,1700,1550
+Maharashtra,Ahmednagar,Sangamner,Onion,"2nd Sort",17/06/2022,1000,1400,1200
+Maharashtra,Ahmednagar,Sangamner,Onion,Other,17/06/2022,500,1000,750
+Maharashtra,Ahmednagar,Sangamner,Pomegranate,Other,17/06/2022,2500,15000,8750
+Maharashtra,Ahmednagar,Sangamner,Soyabean,Other,17/06/2022,4950,6300,5625
+Maharashtra,Ahmednagar,Sangamner,Tomato,Other,17/06/2022,2000,4000,3000
+Maharashtra,Ahmednagar,Sangamner,Wheat,Other,17/06/2022,2101,2500,2300
+Maharashtra,Ahmednagar,Shevgaon,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5500,5500,5500
+Maharashtra,Ahmednagar,Shevgaon,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,2050,2100,2050
+Maharashtra,Ahmednagar,Shevgaon,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4200,4200,4200
+Maharashtra,Ahmednagar,Shevgaon,Soyabean,Yellow,17/06/2022,5700,6300,6300
+Maharashtra,Ahmednagar,Shevgaon,Wheat,"Maharashtra 2189",17/06/2022,2030,2300,2030
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5400,5600,5600
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,2000,2100,2100
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4400,4400,4400
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),Wheat,"Maharashtra 2189",17/06/2022,2300,2300,2300
+Maharashtra,Ahmednagar,Shrirampur,"Bhindi(Ladies Finger)",Other,17/06/2022,1500,2200,1850
+Maharashtra,Ahmednagar,Shrirampur,"Bitter gourd",Other,17/06/2022,1500,2000,1750
+Maharashtra,Ahmednagar,Shrirampur,"Bottle gourd",Other,17/06/2022,500,900,700
+Maharashtra,Ahmednagar,Shrirampur,Brinjal,Other,17/06/2022,1000,1500,1250
+Maharashtra,Ahmednagar,Shrirampur,Cabbage,Other,17/06/2022,400,800,600
+Maharashtra,Ahmednagar,Shrirampur,Cauliflower,Other,17/06/2022,500,1000,750
+Maharashtra,Ahmednagar,Shrirampur,Chikoos(Sapota),Other,17/06/2022,800,1500,1150
+Maharashtra,Ahmednagar,Shrirampur,"Chilly Capsicum",Other,17/06/2022,1000,2200,1600
+Maharashtra,Ahmednagar,Shrirampur,Coriander(Leaves),Other,17/06/2022,10,20,15
+Maharashtra,Ahmednagar,Shrirampur,Cucumbar(Kheera),Other,17/06/2022,800,1200,1000
+Maharashtra,Ahmednagar,Shrirampur,Drumstick,Other,17/06/2022,1500,2500,2000
+Maharashtra,Ahmednagar,Shrirampur,Garlic,Other,17/06/2022,2000,3000,2550
+Maharashtra,Ahmednagar,Shrirampur,Ginger(Green),Other,17/06/2022,1000,1500,1250
+Maharashtra,Ahmednagar,Shrirampur,"Green Chilli",Other,17/06/2022,3500,4500,4000
+Maharashtra,Ahmednagar,Shrirampur,Guar,Other,17/06/2022,2000,3000,2550
+Maharashtra,Ahmednagar,Shrirampur,Lime,Other,17/06/2022,1500,2500,2000
+Maharashtra,Ahmednagar,Shrirampur,Mango,Other,17/06/2022,4000,8000,6000
+Maharashtra,Ahmednagar,Shrirampur,"Mango (Raw-Ripe)",Other,17/06/2022,2500,3500,3000
+Maharashtra,Ahmednagar,Shrirampur,Methi(Leaves),Other,17/06/2022,10,18,14
+Maharashtra,Ahmednagar,Shrirampur,Papaya,Other,17/06/2022,800,1000,900
+Maharashtra,Ahmednagar,Shrirampur,Potato,Other,17/06/2022,1500,1800,1650
+Maharashtra,Ahmednagar,Shrirampur,Ridgeguard(Tori),Other,17/06/2022,1000,2000,1550
+Maharashtra,Ahmednagar,Shrirampur,Spinach,Other,17/06/2022,8,10,9
+Maharashtra,Ahmednagar,Shrirampur,Tomato,Other,17/06/2022,3000,4000,3550
+Maharashtra,Akola,Akola,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5100,6475,5800
+Maharashtra,Akola,Akola,"Bengal Gram(Gram)(Whole)","Kabul Small",17/06/2022,5100,7000,6050
+Maharashtra,Akola,Akola,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4000,4600,4300
+Maharashtra,Akola,Akola,"Black Gram (Urd Beans)(Whole)",Other,17/06/2022,3200,5200,4200
+Maharashtra,Akola,Akola,"Castor Seed",Other,17/06/2022,4700,4700,4700
+Maharashtra,Akola,Akola,"Green Gram (Moong)(Whole)","Green (Whole)",17/06/2022,5555,6170,5900
+Maharashtra,Akola,Akola,Jowar(Sorghum),Other,17/06/2022,1350,1680,1530
+Maharashtra,Akola,Akola,Safflower,Other,17/06/2022,3000,3000,3000
+Maharashtra,Akola,Akola,"Sesamum(Sesame,Gingelly,Til)",Other,17/06/2022,8600,8700,8650
+Maharashtra,Akola,Akola,Soyabean,Yellow,17/06/2022,5300,6545,6350
+Maharashtra,Akola,Akola,Wheat,Other,17/06/2022,1900,2150,2080
+Maharashtra,Akola,Akola,Wheat,Sharbati,17/06/2022,2600,3050,2950
+Maharashtra,Akola,Murtizapur,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4150,4470,4315
+Maharashtra,Akola,Murtizapur,Wheat,Other,17/06/2022,1850,2180,1995
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Beetroot,Other,17/06/2022,1200,1600,1400
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)","Bhindi(Ladies Finger)",Other,17/06/2022,3600,4200,3900
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)","Bitter gourd",Other,17/06/2022,2200,2600,2400
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Brinjal,Other,17/06/2022,1400,1800,1600
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Cabbage,Other,17/06/2022,1500,2000,1750
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Carrot,Other,17/06/2022,1600,2000,1800
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Cauliflower,Other,17/06/2022,2000,2500,2250
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)","Chilly Capsicum",Other,17/06/2022,2800,3200,3000
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Coriander(Leaves),Other,17/06/2022,2000,2500,2250
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Cucumbar(Kheera),Other,17/06/2022,2000,2600,2300
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Garlic,Other,17/06/2022,1500,4000,2750
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Ginger(Green),Other,17/06/2022,1800,2400,2100
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)","Green Chilli",Other,17/06/2022,2800,3200,3000
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Guar,Other,17/06/2022,4500,5000,4750
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Methi(Leaves),Other,17/06/2022,4000,5000,4500
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Onion,Local,17/06/2022,100,900,500
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Potato,Other,17/06/2022,1200,1800,1500
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Pumpkin,Other,17/06/2022,1000,1400,1200
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Spinach,Other,17/06/2022,1000,1200,1100
+Maharashtra,Amarawati,"Amrawati(Frui & Veg. Market)",Tomato,Local,17/06/2022,3500,4000,3750
+Maharashtra,Aurangabad,Aurangabad,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,4500,5500,5000
+Maharashtra,Aurangabad,Aurangabad,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,1850,1981,1915
+Maharashtra,Aurangabad,Aurangabad,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4000,4100,4050
+Maharashtra,Aurangabad,Aurangabad,Jowar(Sorghum),Other,17/06/2022,1650,2050,1850
+Maharashtra,Aurangabad,Aurangabad,Soyabean,Other,17/06/2022,6000,6100,6050
+Maharashtra,Aurangabad,Aurangabad,Wheat,Other,17/06/2022,1950,2350,2150
+Maharashtra,Aurangabad,Sillod,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4000,4100,4100
+Maharashtra,Aurangabad,Sillod,Maize,Yellow,17/06/2022,2051,2150,2100
+Maharashtra,Aurangabad,Sillod,Wheat,Other,17/06/2022,2000,2100,2050
+Maharashtra,Aurangabad,Vaijpur,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5100,5510,5320
+Maharashtra,Aurangabad,Vaijpur,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,1910,2110,2000
+Maharashtra,Aurangabad,Vaijpur,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3905,4975,4200
+Maharashtra,Aurangabad,Vaijpur,"Corriander seed",Other,17/06/2022,4100,4100,4100
+Maharashtra,Aurangabad,Vaijpur,"Green Gram (Moong)(Whole)",Other,17/06/2022,6000,6000,6000
+Maharashtra,Aurangabad,Vaijpur,Groundnut,Other,17/06/2022,4275,4400,4300
+Maharashtra,Aurangabad,Vaijpur,Jowar(Sorghum),Other,17/06/2022,1580,1730,1625
+Maharashtra,Aurangabad,Vaijpur,Maize,Other,17/06/2022,2100,2100,2100
+Maharashtra,Aurangabad,Vaijpur,Safflower,Other,17/06/2022,5385,5385,5385
+Maharashtra,Aurangabad,Vaijpur,Soyabean,Other,17/06/2022,5900,6305,6210
+Maharashtra,Aurangabad,Vaijpur,"Tamarind Fruit",Other,17/06/2022,655,655,655
+Maharashtra,Aurangabad,Vaijpur,Wheat,Other,17/06/2022,2025,2495,2120
+Maharashtra,Beed,Beed,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,4001,5951,5627
+Maharashtra,Beed,Beed,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,1800,3899,2289
+Maharashtra,Beed,Beed,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3700,4261,4093
+Maharashtra,Beed,Beed,"Black Gram (Urd Beans)(Whole)",Other,17/06/2022,4500,5491,4986
+Maharashtra,Beed,Beed,Jowar(Sorghum),Other,17/06/2022,1300,2511,1910
+Maharashtra,Beed,Beed,Soyabean,Yellow,17/06/2022,5200,6450,6108
+Maharashtra,Beed,Beed,Wheat,Other,17/06/2022,1901,2474,2057
+Maharashtra,Beed,Gevrai,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5100,6000,5750
+Maharashtra,Beed,Gevrai,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,2000,2329,2175
+Maharashtra,Beed,Gevrai,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3800,4350,4200
+Maharashtra,Beed,Gevrai,Jowar(Sorghum),Red,17/06/2022,1500,2181,1800
+Maharashtra,Beed,Gevrai,"Sesamum(Sesame,Gingelly,Til)",White,17/06/2022,9501,9501,9501
+Maharashtra,Beed,Gevrai,Soyabean,Yellow,17/06/2022,6000,6375,6250
+Maharashtra,Beed,Gevrai,Wheat,Other,17/06/2022,1850,2700,2300
+Maharashtra,Beed,Majalgaon,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5451,5925,5700
+Maharashtra,Beed,Majalgaon,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,1900,2300,2200
+Maharashtra,Beed,Majalgaon,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3650,4285,4150
+Maharashtra,Beed,Majalgaon,Jowar(Sorghum),Red,17/06/2022,1600,2370,2100
+Maharashtra,Beed,Majalgaon,Soyabean,Other,17/06/2022,5601,6425,6300
+Maharashtra,Beed,Majalgaon,Wheat,Other,17/06/2022,3001,3001,3001
+Maharashtra,Bhandara,Bhandara,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5000,5000,5000
+Maharashtra,Bhandara,Bhandara,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4000,4100,4025
+Maharashtra,Bhandara,Bhandara,"Green Gram (Moong)(Whole)","Green (Whole)",17/06/2022,5000,5500,5300
+Maharashtra,Bhandara,Bhandara,Mustard,Other,17/06/2022,5000,5000,5000
+Maharashtra,Bhandara,Bhandara,Rice,"1009 Kar",17/06/2022,3000,3000,3000
+Maharashtra,Bhandara,Bhandara,Rice,Other,17/06/2022,3800,3800,3800
+Maharashtra,Bhandara,Lakhandur,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4250,4300,4275
+Maharashtra,Bhandara,Lakhandur,Wheat,Other,17/06/2022,1850,1875,1865
+Maharashtra,Buldhana,Chikali,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5350,6100,5725
+Maharashtra,Buldhana,Chikali,"Bengal Gram(Gram)(Whole)","Average (Whole)",17/06/2022,4010,4300,4155
+Maharashtra,Buldhana,Chikali,"Black Gram (Urd Beans)(Whole)",Other,17/06/2022,4051,5675,4863
+Maharashtra,Buldhana,Chikali,"Green Gram (Moong)(Whole)","Green (Whole)",17/06/2022,4450,5400,4925
+Maharashtra,Buldhana,Chikali,Jowar(Sorghum),Other,17/06/2022,1150,1450,1300
+Maharashtra,Buldhana,Chikali,Maize,"Deshi Red",17/06/2022,1300,1850,1575
+Maharashtra,Buldhana,Chikali,Soyabean,Yellow,17/06/2022,5800,6350,6075
+Maharashtra,Buldhana,Chikali,Wheat,Other,17/06/2022,1620,2071,1845
+Maharashtra,Buldhana,"Deoulgaon Raja",Jowar(Sorghum),Other,17/06/2022,1600,2200,1800
+Maharashtra,Buldhana,"Deoulgaon Raja",Maize,Yellow,17/06/2022,1800,1800,1800
+Maharashtra,Buldhana,"Deoulgaon Raja",Soyabean,Yellow,17/06/2022,6000,6300,6300
+Maharashtra,Buldhana,"Deoulgaon Raja",Wheat,Other,17/06/2022,1800,2600,2000
+Maharashtra,Buldhana,Mehekar,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5400,6150,5700
+Maharashtra,Buldhana,Mehekar,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3900,4300,4100
+Maharashtra,Buldhana,Mehekar,"Green Gram (Moong)(Whole)",Other,17/06/2022,5200,5900,5500
+Maharashtra,Buldhana,Mehekar,Soyabean,Other,17/06/2022,6000,6500,6400
+Maharashtra,Buldhana,Mehekar,Wheat,Other,17/06/2022,2300,2800,2600
+Maharashtra,Buldhana,Nandura,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5800,6421,6421
+Maharashtra,Buldhana,Nandura,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3900,4300,4300
+Maharashtra,Buldhana,Nandura,Jowar(Sorghum),Other,17/06/2022,1301,1540,1540
+Maharashtra,Buldhana,Nandura,Maize,Other,17/06/2022,1950,2150,2150
+Maharashtra,Buldhana,Nandura,Soyabean,Yellow,17/06/2022,5900,6475,6475
+Maharashtra,Buldhana,Nandura,Wheat,Other,17/06/2022,1835,2100,2100
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),"Bhindi(Ladies Finger)",Other,17/06/2022,1000,2000,1500
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),"Bitter gourd",Other,17/06/2022,2000,3000,2500
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Brinjal,Other,17/06/2022,1000,2000,1500
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Cabbage,Other,17/06/2022,800,1500,1000
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Cauliflower,Other,17/06/2022,800,1500,1000
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),"Chilly Capsicum",Other,17/06/2022,2000,3000,2500
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Coriander(Leaves),Other,17/06/2022,2000,4000,3000
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Cucumbar(Kheera),Other,17/06/2022,800,1500,1000
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Garlic,Other,17/06/2022,3000,5000,4000
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Ginger(Green),Other,17/06/2022,2000,3000,2500
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Lime,Other,17/06/2022,4000,6000,5000
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),"Mango (Raw-Ripe)",Other,17/06/2022,1500,2500,2000
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Onion,White,17/06/2022,1300,1500,1400
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Potato,Other,17/06/2022,1300,1500,1400
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Tomato,Other,17/06/2022,2000,3000,2500
+Maharashtra,Chandrapur,Chimur,Paddy(Dhan)(Common),Other,17/06/2022,2350,2450,2400
+Maharashtra,Chandrapur,Gondpimpri,Paddy(Dhan)(Common),Other,17/06/2022,2475,2550,2525
+Maharashtra,Chandrapur,Mul,Paddy(Dhan)(Common),Other,17/06/2022,1950,2570,2400
+Maharashtra,Chandrapur,Rajura,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5385,5676,5500
+Maharashtra,Chandrapur,Rajura,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4275,4330,4280
+Maharashtra,Chandrapur,Savali,Paddy(Dhan)(Common),Other,17/06/2022,2050,2400,2250
+Maharashtra,Dhule,Dondaicha,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,1600,2112,2000
+Maharashtra,Dhule,Dondaicha,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3600,6000,5701
+Maharashtra,Dhule,Dondaicha,"Green Gram (Moong)(Whole)",Other,17/06/2022,5700,5700,5700
+Maharashtra,Dhule,Dondaicha,Maize,Yellow,17/06/2022,1900,2150,2000
+Maharashtra,Dhule,Dondaicha,Wheat,Other,17/06/2022,1701,2258,2241
+Maharashtra,Gadchiroli,Gandchiroli,Paddy(Dhan)(Common),Other,17/06/2022,2400,2400,2400
+Maharashtra,Gondiya,Amgaon,Paddy(Dhan)(Common),Other,17/06/2022,1400,1472,1436
+Maharashtra,Gondiya,Gondiya,Paddy(Dhan)(Common),Other,17/06/2022,1500,1600,1550
+Maharashtra,Hingoli,Hingoli,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5800,6325,6062
+Maharashtra,Hingoli,Hingoli,Jowar(Sorghum),Other,17/06/2022,1000,1700,1350
+Maharashtra,Hingoli,Hingoli,Soyabean,Other,17/06/2022,6100,6600,6350
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,17/06/2022,6200,7300,6750
+Maharashtra,Hingoli,Hingoli,Wheat,Sharbati,17/06/2022,1550,2420,1985
+Maharashtra,Hingoli,"Hingoli(Kanegoan Naka)","Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5600,5700,5650
+Maharashtra,Hingoli,"Hingoli(Kanegoan Naka)","Bengal Gram(Gram)(Whole)",Other,17/06/2022,4000,4200,4100
+Maharashtra,Hingoli,"Hingoli(Kanegoan Naka)",Soyabean,Yellow,17/06/2022,6000,6200,6100
+Maharashtra,Hingoli,"Hingoli(Kanegoan Naka)",Wheat,Other,17/06/2022,1800,1900,1850
+Maharashtra,Hingoli,Sengoan,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4200,4400,4250
+Maharashtra,Hingoli,Sengoan,Groundnut,Other,17/06/2022,4500,5500,5000
+Maharashtra,Jalana,Jalana,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,1850,2302,2100
+Maharashtra,Jalana,Jalana,"Bengal Gram(Gram)(Whole)","Kabul Small",17/06/2022,7000,7000,7000
+Maharashtra,Jalana,Jalana,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3250,4500,4300
+Maharashtra,Jalana,Jalana,"Black Gram (Urd Beans)(Whole)",Other,17/06/2022,4200,6400,5000
+Maharashtra,Jalana,Jalana,"Green Gram (Moong)(Whole)",Other,17/06/2022,5100,5600,5600
+Maharashtra,Jalana,Jalana,Jowar(Sorghum),Other,17/06/2022,1550,3101,2175
+Maharashtra,Jalana,Jalana,Maize,"Deshi Red",17/06/2022,2000,2315,2211
+Maharashtra,Jalana,Jalana,Mustard,Other,17/06/2022,5650,5650,5650
+Maharashtra,Jalana,Jalana,"Neem Seed",Other,17/06/2022,850,850,850
+Maharashtra,Jalana,Jalana,Safflower,Other,17/06/2022,4500,4500,4500
+Maharashtra,Jalana,Jalana,Soyabean,Yellow,17/06/2022,5000,6400,6300
+Maharashtra,Jalana,Jalana,Sunflower,Other,17/06/2022,4300,5600,4800
+Maharashtra,Jalana,Jalana,Wheat,"147 Average",17/06/2022,1600,2500,2325
+Maharashtra,Jalana,Partur,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5700,5800,5750
+Maharashtra,Jalana,Partur,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4100,4321,4275
+Maharashtra,Jalana,Partur,Jowar(Sorghum),Other,17/06/2022,1420,1926,1900
+Maharashtra,Jalana,Partur,Soyabean,Yellow,17/06/2022,6000,6300,6150
+Maharashtra,Jalana,Partur,Wheat,"Maharashtra 2189",17/06/2022,1926,2151,2012
+Maharashtra,Jalgaon,Amalner,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,1800,2226,2226
+Maharashtra,Jalgaon,Amalner,"Bengal Gram(Gram)(Whole)","Average (Whole)",17/06/2022,4000,4150,4150
+Maharashtra,Jalgaon,Amalner,"Corriander seed",Other,17/06/2022,11000,11500,11500
+Maharashtra,Jalgaon,Amalner,Groundnut,Other,17/06/2022,4700,5671,5671
+Maharashtra,Jalgaon,Amalner,Maize,"Deshi Red",17/06/2022,1900,2200,2200
+Maharashtra,Jalgaon,Amalner,"Sesamum(Sesame,Gingelly,Til)",Other,17/06/2022,7000,9685,9685
+Maharashtra,Jalgaon,Amalner,Soyabean,Other,17/06/2022,5099,5299,5299
+Maharashtra,Jalgaon,Amalner,Sunflower,Other,17/06/2022,4600,4700,4700
+Maharashtra,Jalgaon,Amalner,Wheat,Other,17/06/2022,1961,2085,2085
+Maharashtra,Jalgaon,Bhusaval,"Bhindi(Ladies Finger)",Other,17/06/2022,2000,2000,2000
+Maharashtra,Jalgaon,Bhusaval,"Bitter gourd",Other,17/06/2022,2500,2500,2500
+Maharashtra,Jalgaon,Bhusaval,Brinjal,Other,17/06/2022,1500,1500,1500
+Maharashtra,Jalgaon,Bhusaval,Cabbage,Other,17/06/2022,1500,1500,1500
+Maharashtra,Jalgaon,Bhusaval,Carrot,Other,17/06/2022,1500,1500,1500
+Maharashtra,Jalgaon,Bhusaval,Cauliflower,Other,17/06/2022,1000,1000,1000
+Maharashtra,Jalgaon,Bhusaval,Coriander(Leaves),Other,17/06/2022,2500,2500,2500
+Maharashtra,Jalgaon,Bhusaval,Cucumbar(Kheera),Other,17/06/2022,1500,1500,1500
+Maharashtra,Jalgaon,Bhusaval,"Green Chilli",Other,17/06/2022,4000,4000,4000
+Maharashtra,Jalgaon,Bhusaval,Guar,Other,17/06/2022,5000,5000,5000
+Maharashtra,Jalgaon,Bhusaval,Lime,Other,17/06/2022,3300,3300,3300
+Maharashtra,Jalgaon,Bhusaval,"Little gourd (Kundru)",Other,17/06/2022,1500,1500,1500
+Maharashtra,Jalgaon,Bhusaval,"Mango (Raw-Ripe)",Other,17/06/2022,2000,2000,2000
+Maharashtra,Jalgaon,Bhusaval,Methi(Leaves),Other,17/06/2022,2500,2500,2500
+Maharashtra,Jalgaon,Bhusaval,Onion,Red,17/06/2022,2000,2000,2000
+Maharashtra,Jalgaon,Bhusaval,Potato,Other,17/06/2022,2000,2000,2000
+Maharashtra,Jalgaon,Bhusaval,Spinach,Other,17/06/2022,1000,1000,1000
+Maharashtra,Jalgaon,Bhusaval,Tomato,Other,17/06/2022,2000,2000,2000
+Maharashtra,Jalgaon,Chalisgaon,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,4350,5000,4850
+Maharashtra,Jalgaon,Chalisgaon,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,1701,2222,1911
+Maharashtra,Jalgaon,Chalisgaon,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3900,4050,3948
+Maharashtra,Jalgaon,Chalisgaon,Groundnut,Other,17/06/2022,3500,5871,5481
+Maharashtra,Jalgaon,Chalisgaon,Jowar(Sorghum),"Jowar ( White)",17/06/2022,1730,2086,1970
+Maharashtra,Jalgaon,Chalisgaon,Maize,Yellow,17/06/2022,2000,2220,2140
+Maharashtra,Jalgaon,Chalisgaon,Onion,Other,17/06/2022,200,1181,900
+Maharashtra,Jalgaon,Chalisgaon,Wheat,"Maharashtra 2189",17/06/2022,1900,1945,1930
+Maharashtra,Jalgaon,Chopada,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,2247,2247,2247
+Maharashtra,Jalgaon,Chopada,"Bengal Gram(Gram)(Whole)","Average (Whole)",17/06/2022,4000,4100,4100
+Maharashtra,Jalgaon,Chopada,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4000,4000,4000
+Maharashtra,Jalgaon,Chopada,"Green Gram (Moong)(Whole)","Green (Whole)",17/06/2022,5800,5925,5900
+Maharashtra,Jalgaon,Chopada,Groundnut,Other,17/06/2022,4545,5050,5050
+Maharashtra,Jalgaon,Chopada,Wheat,Other,17/06/2022,1950,1952,1952
+Maharashtra,Jalgaon,Jalgaon,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5400,5600,5600
+Maharashtra,Jalgaon,Jalgaon,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,2100,2100,2100
+Maharashtra,Jalgaon,Jalgaon,"Bengal Gram(Gram)(Whole)","Average (Whole)",17/06/2022,4150,5230,4390
+Maharashtra,Jalgaon,Jalgaon,"Bhindi(Ladies Finger)",Other,17/06/2022,2000,3000,2500
+Maharashtra,Jalgaon,Jalgaon,"Bitter gourd",Other,17/06/2022,1500,3500,2500
+Maharashtra,Jalgaon,Jalgaon,"Black Gram (Urd Beans)(Whole)",Other,17/06/2022,5500,6000,5500
+Maharashtra,Jalgaon,Jalgaon,Brinjal,Other,17/06/2022,100,2000,1500
+Maharashtra,Jalgaon,Jalgaon,Cabbage,Other,17/06/2022,1500,2200,1800
+Maharashtra,Jalgaon,Jalgaon,Carrot,Other,17/06/2022,2500,3500,3000
+Maharashtra,Jalgaon,Jalgaon,Cauliflower,Other,17/06/2022,2000,2500,2200
+Maharashtra,Jalgaon,Jalgaon,Coriander(Leaves),Other,17/06/2022,2000,4000,3000
+Maharashtra,Jalgaon,Jalgaon,Cucumbar(Kheera),Other,17/06/2022,1000,1600,1200
+Maharashtra,Jalgaon,Jalgaon,Drumstick,Other,17/06/2022,6000,6000,6000
+Maharashtra,Jalgaon,Jalgaon,Ginger(Green),Other,17/06/2022,1000,2000,1500
+Maharashtra,Jalgaon,Jalgaon,"Green Gram (Moong)(Whole)",Other,17/06/2022,6195,6195,6195
+Maharashtra,Jalgaon,Jalgaon,Guar,Other,17/06/2022,2500,3500,3000
+Maharashtra,Jalgaon,Jalgaon,"Jamun(Narale Hannu)",Other,17/06/2022,5000,12000,8000
+Maharashtra,Jalgaon,Jalgaon,Lime,Other,17/06/2022,2000,3000,2500
+Maharashtra,Jalgaon,Jalgaon,"Mango (Raw-Ripe)",Other,17/06/2022,1500,2500,2000
+Maharashtra,Jalgaon,Jalgaon,Methi(Leaves),Other,17/06/2022,2500,5000,4000
+Maharashtra,Jalgaon,Jalgaon,Onion,Red,17/06/2022,300,1200,775
+Maharashtra,Jalgaon,Jalgaon,Papaya,Other,17/06/2022,800,800,800
+Maharashtra,Jalgaon,Jalgaon,Potato,Other,17/06/2022,1000,1800,1500
+Maharashtra,Jalgaon,Jalgaon,Spinach,Other,17/06/2022,2500,2500,2500
+Maharashtra,Jalgaon,Jalgaon,Tomato,Other,17/06/2022,1500,4000,3000
+Maharashtra,Jalgaon,Jalgaon,Wheat,"147 Average",17/06/2022,2000,2000,2000
+Maharashtra,Jalgaon,Jamner,Cotton,Other,17/06/2022,11000,11500,11025
+Maharashtra,Jalgaon,Jamner,Maize,"Deshi Red",17/06/2022,2000,2200,2100
+Maharashtra,Kolhapur,Kolhapur,Onion,Other,17/06/2022,700,1800,1200
+Maharashtra,Latur,"Aurad Shahajani","Bengal Gram(Gram)(Whole)",Other,17/06/2022,4250,4600,4425
+Maharashtra,Latur,"Aurad Shahajani",Safflower,Other,17/06/2022,4929,5040,4984
+Maharashtra,Latur,"Aurad Shahajani",Soyabean,Yellow,17/06/2022,6500,6580,6540
+Maharashtra,Latur,Chakur,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5350,5570,5481
+Maharashtra,Latur,Chakur,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3705,4180,4119
+Maharashtra,Latur,Chakur,Jowar(Sorghum),Other,17/06/2022,1413,2421,2151
+Maharashtra,Latur,Chakur,Soyabean,Yellow,17/06/2022,5699,6562,6421
+Maharashtra,Latur,Latur,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5000,6325,6200
+Maharashtra,Latur,Latur,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4151,4791,4650
+Maharashtra,Latur,Latur,"Green Gram (Moong)(Whole)","Green (Whole)",17/06/2022,3000,6000,5500
+Maharashtra,Latur,Latur,Soyabean,Yellow,17/06/2022,6300,6680,6550
+Maharashtra,Latur,Udgir,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,6225,6471,6348
+Maharashtra,Latur,Udgir,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4550,4721,4635
+Maharashtra,Latur,Udgir,Soyabean,Other,17/06/2022,6570,6640,6605
+Maharashtra,Mumbai,"Fruit Market",Cherry,Other,17/06/2022,11000,21000,16000
+Maharashtra,Mumbai,"Fruit Market",Chikoos(Sapota),Other,17/06/2022,3000,5500,4250
+Maharashtra,Mumbai,"Fruit Market",Guava,Other,17/06/2022,2500,6000,4250
+Maharashtra,Mumbai,"Fruit Market","Jamun(Narale Hannu)",Other,17/06/2022,7000,22000,14500
+Maharashtra,Mumbai,"Fruit Market","Karbuja(Musk Melon)",Other,17/06/2022,2000,3000,2500
+Maharashtra,Mumbai,"Fruit Market",Litchi,Other,17/06/2022,7000,15000,11000
+Maharashtra,Mumbai,"Fruit Market",Mango,Hapus(Alphaso),17/06/2022,7000,16000,11500
+Maharashtra,Mumbai,"Fruit Market",Papaya,Other,17/06/2022,800,2000,1400
+Maharashtra,Mumbai,"Fruit Market",Peach,Other,17/06/2022,10000,14000,12000
+Maharashtra,Mumbai,"Fruit Market",Pineapple,Other,17/06/2022,3000,7000,5000
+Maharashtra,Mumbai,"Fruit Market",Pomegranate,Other,17/06/2022,6000,9000,7500
+Maharashtra,Mumbai,"Fruit Market","Water Melon",Other,17/06/2022,700,1050,875
+Maharashtra,Mumbai,Mumbai,Almond(Badam),Other,17/06/2022,60000,70000,65000
+Maharashtra,Mumbai,Mumbai,Arecanut(Betelnut/Supari),Other,17/06/2022,35000,45000,40000
+Maharashtra,Mumbai,Mumbai,"Arhar Dal(Tur Dal)",Other,17/06/2022,8000,10500,9500
+Maharashtra,Mumbai,Mumbai,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,2200,2700,2500
+Maharashtra,Mumbai,Mumbai,"Banana - Green",Other,17/06/2022,2600,3600,3100
+Maharashtra,Mumbai,Mumbai,"Bengal Gram Dal (Chana Dal)",Other,17/06/2022,5600,6200,6000
+Maharashtra,Mumbai,Mumbai,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,5000,5400,5200
+Maharashtra,Mumbai,Mumbai,"Bhindi(Ladies Finger)",Other,17/06/2022,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,"Bitter gourd",Other,17/06/2022,2600,3400,3000
+Maharashtra,Mumbai,Mumbai,"Black Gram (Urd Beans)(Whole)",Other,17/06/2022,6000,6500,6200
+Maharashtra,Mumbai,Mumbai,"Black Gram Dal (Urd Dal)",Other,17/06/2022,8500,10500,9500
+Maharashtra,Mumbai,Mumbai,"Black pepper",Other,17/06/2022,40000,60000,50000
+Maharashtra,Mumbai,Mumbai,Brinjal,Other,17/06/2022,1400,2400,1900
+Maharashtra,Mumbai,Mumbai,Cabbage,Other,17/06/2022,1400,1800,1600
+Maharashtra,Mumbai,Mumbai,Cardamoms,Other,17/06/2022,60000,80000,70000
+Maharashtra,Mumbai,Mumbai,Carrot,Other,17/06/2022,2400,3400,2900
+Maharashtra,Mumbai,Mumbai,Cashewnuts,Other,17/06/2022,60000,80000,70000
+Maharashtra,Mumbai,Mumbai,Cauliflower,Other,17/06/2022,1200,1600,1400
+Maharashtra,Mumbai,Mumbai,"Chili Red",Other,17/06/2022,20000,40000,30000
+Maharashtra,Mumbai,Mumbai,"Chilly Capsicum",Other,17/06/2022,3400,4000,3700
+Maharashtra,Mumbai,Mumbai,Cinamon(Dalchini),Other,17/06/2022,15000,20000,17500
+Maharashtra,Mumbai,Mumbai,Coconut,Other,17/06/2022,1050,2100,1575
+Maharashtra,Mumbai,Mumbai,Coriander(Leaves),Other,17/06/2022,1000,2000,1500
+Maharashtra,Mumbai,Mumbai,"Corriander seed",Other,17/06/2022,10000,14000,12000
+Maharashtra,Mumbai,Mumbai,"Cowpea (Lobia/Karamani)",Other,17/06/2022,6500,10000,8500
+Maharashtra,Mumbai,Mumbai,Cucumbar(Kheera),Other,17/06/2022,2000,3200,2600
+Maharashtra,Mumbai,Mumbai,Drumstick,Other,17/06/2022,4000,6000,5000
+Maharashtra,Mumbai,Mumbai,"Elephant Yam (Suran)",Other,17/06/2022,1800,2600,2200
+Maharashtra,Mumbai,Mumbai,"French Beans (Frasbean)",Other,17/06/2022,4500,6500,5500
+Maharashtra,Mumbai,Mumbai,Ginger(Green),Other,17/06/2022,1800,2800,2300
+Maharashtra,Mumbai,Mumbai,"Green Chilli",Other,17/06/2022,4200,5200,4700
+Maharashtra,Mumbai,Mumbai,"Green Gram (Moong)(Whole)",Other,17/06/2022,8000,10000,9000
+Maharashtra,Mumbai,Mumbai,"Green Gram Dal (Moong Dal)",Other,17/06/2022,8500,10500,10000
+Maharashtra,Mumbai,Mumbai,"Green Peas",Other,17/06/2022,8000,9000,8500
+Maharashtra,Mumbai,Mumbai,"Ground Nut Seed",Other,17/06/2022,10000,11000,10500
+Maharashtra,Mumbai,Mumbai,Guar,Other,17/06/2022,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,Gur(Jaggery),Other,17/06/2022,4200,5000,4600
+Maharashtra,Mumbai,Mumbai,Jowar(Sorghum),Other,17/06/2022,2400,4000,3500
+Maharashtra,Mumbai,Mumbai,"Lentil (Masur)(Whole)",Other,17/06/2022,7700,7900,7800
+Maharashtra,Mumbai,Mumbai,Lime,Other,17/06/2022,5000,8000,6500
+Maharashtra,Mumbai,Mumbai,"Little gourd (Kundru)",Other,17/06/2022,2500,5500,4250
+Maharashtra,Mumbai,Mumbai,Maize,Other,17/06/2022,2400,2600,2500
+Maharashtra,Mumbai,Mumbai,"Mango (Raw-Ripe)",Other,17/06/2022,3500,4000,3800
+Maharashtra,Mumbai,Mumbai,"Masur Dal",Other,17/06/2022,8200,8500,8400
+Maharashtra,Mumbai,Mumbai,"Methi Seeds",Methiseeds,17/06/2022,6000,14000,10000
+Maharashtra,Mumbai,Mumbai,Methi(Leaves),Other,17/06/2022,800,1400,1100
+Maharashtra,Mumbai,Mumbai,Mint(Pudina),Other,17/06/2022,500,600,550
+Maharashtra,Mumbai,Mumbai,Mustard,Other,17/06/2022,6000,8000,7000
+Maharashtra,Mumbai,Mumbai,"Peas Wet",Other,17/06/2022,6000,11000,8500
+Maharashtra,Mumbai,Mumbai,Pumpkin,Other,17/06/2022,2000,2800,2400
+Maharashtra,Mumbai,Mumbai,Raddish,Other,17/06/2022,1800,2000,1900
+Maharashtra,Mumbai,Mumbai,Ridgeguard(Tori),Other,17/06/2022,3000,4000,3500
+Maharashtra,Mumbai,Mumbai,"Sabu Dan",Other,17/06/2022,4500,5500,5000
+Maharashtra,Mumbai,Mumbai,"Sesamum(Sesame,Gingelly,Til)",Other,17/06/2022,12000,14000,13000
+Maharashtra,Mumbai,Mumbai,Snakeguard,Other,17/06/2022,2400,2800,2600
+Maharashtra,Mumbai,Mumbai,Soanf,Other,17/06/2022,18000,22000,20000
+Maharashtra,Mumbai,Mumbai,Spinach,Other,17/06/2022,500,700,600
+Maharashtra,Mumbai,Mumbai,Sugar,Other,17/06/2022,3390,3562,3476
+Maharashtra,Mumbai,Mumbai,"Sweet Potato",Other,17/06/2022,2200,3000,2600
+Maharashtra,Mumbai,Mumbai,"Sweet Pumpkin",Other,17/06/2022,800,1600,1200
+Maharashtra,Mumbai,Mumbai,"Tamarind Fruit",Other,17/06/2022,4000,8000,6000
+Maharashtra,Mumbai,Mumbai,Tomato,Other,17/06/2022,4000,5000,4500
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,17/06/2022,6000,11000,8500
+Maharashtra,Mumbai,Mumbai,Wheat,Other,17/06/2022,2200,4000,3100
+Maharashtra,Mumbai,"Vashi New Mumbai",Onion,Other,17/06/2022,900,1600,1250
+Maharashtra,Mumbai,"Vashi New Mumbai",Potato,Other,17/06/2022,1500,1900,1700
+Maharashtra,Nagpur,Kalmeshwar,"Bhindi(Ladies Finger)",Other,17/06/2022,2115,2500,2410
+Maharashtra,Nagpur,Kalmeshwar,Brinjal,Other,17/06/2022,1450,2000,1860
+Maharashtra,Nagpur,Kalmeshwar,Cabbage,Other,17/06/2022,1080,1500,1290
+Maharashtra,Nagpur,Kalmeshwar,Cauliflower,Other,17/06/2022,1470,2000,1740
+Maharashtra,Nagpur,Kalmeshwar,Coriander(Leaves),Other,17/06/2022,4055,5000,4525
+Maharashtra,Nagpur,Kalmeshwar,"Green Chilli",Other,17/06/2022,4155,4500,4365
+Maharashtra,Nagpur,Kalmeshwar,Spinach,Other,17/06/2022,1580,2000,1875
+Maharashtra,Nagpur,Kalmeshwar,Tomato,Other,17/06/2022,3570,4000,3830
+Maharashtra,Nagpur,Kamthi,"Bhindi(Ladies Finger)",Other,17/06/2022,1000,2200,1800
+Maharashtra,Nagpur,Kamthi,"Bitter gourd",Other,17/06/2022,3000,4500,4000
+Maharashtra,Nagpur,Kamthi,"Bottle gourd",Other,17/06/2022,800,1200,1100
+Maharashtra,Nagpur,Kamthi,Brinjal,Other,17/06/2022,1000,2000,1800
+Maharashtra,Nagpur,Kamthi,Carrot,Other,17/06/2022,3000,4500,4000
+Maharashtra,Nagpur,Kamthi,Cauliflower,Other,17/06/2022,1000,1800,1600
+Maharashtra,Nagpur,Kamthi,Coriander(Leaves),Other,17/06/2022,3000,4500,4000
+Maharashtra,Nagpur,Kamthi,Cucumbar(Kheera),Other,17/06/2022,1000,2000,1800
+Maharashtra,Nagpur,Kamthi,Garlic,Other,17/06/2022,3000,4500,4000
+Maharashtra,Nagpur,Kamthi,"Green Chilli",Other,17/06/2022,3000,4500,4000
+Maharashtra,Nagpur,Kamthi,Guar,Other,17/06/2022,3000,4500,4000
+Maharashtra,Nagpur,Kamthi,Mango,Other,17/06/2022,2000,3500,3000
+Maharashtra,Nagpur,Kamthi,Methi(Leaves),Other,17/06/2022,3000,4500,4000
+Maharashtra,Nagpur,Kamthi,Onion,Local,17/06/2022,600,1400,1200
+Maharashtra,Nagpur,Kamthi,Potato,Other,17/06/2022,1000,2000,1800
+Maharashtra,Nagpur,Kamthi,Spinach,Other,17/06/2022,1000,1800,1600
+Maharashtra,Nagpur,Kamthi,Tomato,Local,17/06/2022,3000,4000,3800
+Maharashtra,Nagpur,Katol,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,3800,6041,5250
+Maharashtra,Nagpur,Katol,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3500,4373,3950
+Maharashtra,Nagpur,Katol,Groundnut,Other,17/06/2022,4000,6350,5100
+Maharashtra,Nagpur,Katol,Soyabean,Yellow,17/06/2022,3500,6251,5460
+Maharashtra,Nagpur,Katol,Wheat,Other,17/06/2022,1800,1971,1900
+Maharashtra,Nagpur,Parshiwani,Spinach,Other,17/06/2022,1200,1500,1400
+Maharashtra,Nagpur,Parshiwani,Tomato,Local,17/06/2022,3000,4500,4000
+Maharashtra,Nanded,Bhokar,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5300,5619,5460
+Maharashtra,Nanded,Bhokar,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4009,4009,4009
+Maharashtra,Nanded,Bhokar,"Green Gram (Moong)(Whole)",Other,17/06/2022,3000,3000,3000
+Maharashtra,Nanded,Bhokar,Groundnut,Other,17/06/2022,5016,5016,5016
+Maharashtra,Nanded,Bhokar,Jowar(Sorghum),Other,17/06/2022,1725,1811,1768
+Maharashtra,Nanded,Bhokar,"Sesamum(Sesame,Gingelly,Til)",White,17/06/2022,10000,10330,10165
+Maharashtra,Nanded,Bhokar,Soyabean,Yellow,17/06/2022,6302,6401,6350
+Maharashtra,Nanded,Bhokar,Turmeric,Other,17/06/2022,5251,6030,5640
+Maharashtra,Nanded,Bhokar,Wheat,Other,17/06/2022,1800,1800,1800
+Maharashtra,Nanded,Himalyatnagar,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4300,4400,4350
+Maharashtra,Nanded,Kinwat,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4875,5230,5000
+Maharashtra,Nandurbar,Shahada,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,2240,2240,2240
+Maharashtra,Nandurbar,Shahada,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4025,7252,6800
+Maharashtra,Nandurbar,Shahada,"Green Gram (Moong)(Whole)",Other,17/06/2022,5000,5961,5728
+Maharashtra,Nandurbar,Shahada,Jowar(Sorghum),Other,17/06/2022,2000,2300,2193
+Maharashtra,Nandurbar,Shahada,Maize,Other,17/06/2022,2012,2012,2012
+Maharashtra,Nandurbar,Shahada,Wheat,Other,17/06/2022,2000,2288,2173
+Maharashtra,Nashik,Chandvad,Onion,Other,17/06/2022,600,1499,950
+Maharashtra,Nashik,Devala,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,4405,4405,4405
+Maharashtra,Nashik,Devala,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,1925,2340,2135
+Maharashtra,Nashik,Devala,"Green Gram (Moong)(Whole)","Green (Whole)",17/06/2022,6255,6255,6255
+Maharashtra,Nashik,Devala,Jowar(Sorghum),Other,17/06/2022,2845,2845,2845
+Maharashtra,Nashik,Devala,"Kulthi(Horse Gram)",Other,17/06/2022,4910,4910,4910
+Maharashtra,Nashik,Devala,Maize,Yellow,17/06/2022,1700,2220,2000
+Maharashtra,Nashik,Devala,Onion,Other,17/06/2022,200,1495,1100
+Maharashtra,Nashik,Devala,Rice,Other,17/06/2022,1575,1590,1580
+Maharashtra,Nashik,Devala,Wheat,"Maharashtra 2189",17/06/2022,1950,2400,1990
+Maharashtra,Nashik,Kalvan,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,2200,2200,2200
+Maharashtra,Nashik,Kalvan,Onion,Other,17/06/2022,300,1700,1300
+Maharashtra,Nashik,Kalvan,"Tamarind Fruit",Other,17/06/2022,800,800,800
+Maharashtra,Nashik,Kalvan,Wheat,Other,17/06/2022,2100,2100,2100
+Maharashtra,Nashik,Lasalgaon,Onion,Other,17/06/2022,701,1751,1310
+Maharashtra,Nashik,Lasalgaon(Niphad),"Black Gram (Urd Beans)(Whole)",Other,17/06/2022,5800,5800,5800
+Maharashtra,Nashik,Lasalgaon(Niphad),Maize,Other,17/06/2022,2311,2390,2350
+Maharashtra,Nashik,Lasalgaon(Niphad),Onion,Other,17/06/2022,500,1371,1200
+Maharashtra,Nashik,Lasalgaon(Niphad),Soyabean,Other,17/06/2022,5656,6480,6430
+Maharashtra,Nashik,Lasalgaon(Niphad),Wheat,"Maharashtra 2189",17/06/2022,2011,2050,2011
+Maharashtra,Nashik,Manmad,Onion,Other,17/06/2022,200,1461,1050
+Maharashtra,Nashik,Nampur,Onion,Other,17/06/2022,100,1525,1300
+Maharashtra,Nashik,Nandgaon,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,3500,4971,4500
+Maharashtra,Nashik,Nandgaon,"Bajra(Pearl Millet/Cumbu)",Other,17/06/2022,2000,2911,2301
+Maharashtra,Nashik,Nandgaon,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3700,4691,4251
+Maharashtra,Nashik,Nandgaon,"Green Gram (Moong)(Whole)","Green (Whole)",17/06/2022,2000,5300,4800
+Maharashtra,Nashik,Nandgaon,Groundnut,Other,17/06/2022,6100,6375,6199
+Maharashtra,Nashik,Nandgaon,Soyabean,Yellow,17/06/2022,5100,6256,6000
+Maharashtra,Nashik,Nandgaon,Wheat,"Maharashtra 2189",17/06/2022,2042,2779,2251
+Maharashtra,Nashik,Nasik,Apple,Other,17/06/2022,14000,22000,18000
+Maharashtra,Nashik,Nasik,Banana,Khandesh,17/06/2022,850,1500,1250
+Maharashtra,Nashik,Nasik,"Bhindi(Ladies Finger)",Other,17/06/2022,1750,3540,2500
+Maharashtra,Nashik,Nasik,"Bitter gourd",Other,17/06/2022,2915,5000,3750
+Maharashtra,Nashik,Nasik,"Bottle gourd",Other,17/06/2022,665,1870,1135
+Maharashtra,Nashik,Nasik,Brinjal,Other,17/06/2022,1500,4250,3000
+Maharashtra,Nashik,Nasik,Cabbage,Other,17/06/2022,750,1500,1165
+Maharashtra,Nashik,Nasik,Cauliflower,Other,17/06/2022,715,1715,1140
+Maharashtra,Nashik,Nasik,Chikoos(Sapota),Other,17/06/2022,1200,2500,2000
+Maharashtra,Nashik,Nasik,"Chilly Capsicum",Other,17/06/2022,4375,7000,5440
+Maharashtra,Nashik,Nasik,Cucumbar(Kheera),Other,17/06/2022,750,2325,1500
+Maharashtra,Nashik,Nasik,Guar,Other,17/06/2022,1600,4300,2900
+Maharashtra,Nashik,Nasik,Lime,Other,17/06/2022,950,2250,1875
+Maharashtra,Nashik,Nasik,Mango,Totapuri,17/06/2022,2000,4000,3500
+Maharashtra,Nashik,Nasik,Orange,Other,17/06/2022,13000,18000,14000
+Maharashtra,Nashik,Nasik,Pear(Marasebu),Other,17/06/2022,8000,16000,12000
+Maharashtra,Nashik,Nasik,Pomegranate,Other,17/06/2022,900,12500,9000
+Maharashtra,Nashik,Nasik,Ridgeguard(Tori),Other,17/06/2022,4165,6665,5835
+Maharashtra,Nashik,Nasik,"Tender Coconut",Other,17/06/2022,2300,3200,2800
+Maharashtra,Nashik,Nasik,"Water Melon",Other,17/06/2022,600,1200,900
+Maharashtra,Nashik,Pimpalgaon,Onion,Other,17/06/2022,400,1795,1400
+Maharashtra,Nashik,"Pimpalgaon Baswant(Saykheda)",Onion,Other,17/06/2022,350,1325,1121
+Maharashtra,Nashik,Umrane,Onion,Other,17/06/2022,800,1621,1350
+Maharashtra,Nashik,Yeola,Onion,Other,17/06/2022,150,1546,1050
+Maharashtra,Osmanabad,Umarga,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5501,5501,5501
+Maharashtra,Osmanabad,Umarga,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3500,4161,4000
+Maharashtra,Osmanabad,Umarga,"Black Gram (Urd Beans)(Whole)",Other,17/06/2022,3510,4000,3800
+Maharashtra,Osmanabad,Umarga,Jowar(Sorghum),"Jowar ( White)",17/06/2022,2000,2341,2100
+Maharashtra,Osmanabad,Umarga,Soyabean,Yellow,17/06/2022,6300,6300,6300
+Maharashtra,Osmanabad,Umarga,Wheat,Kalyan,17/06/2022,1610,2390,2100
+Maharashtra,Parbhani,Gangakhed,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5600,5700,5600
+Maharashtra,Parbhani,Gangakhed,Groundnut,Other,17/06/2022,5600,5700,5600
+Maharashtra,Parbhani,Gangakhed,Jowar(Sorghum),Other,17/06/2022,2200,2500,2400
+Maharashtra,Parbhani,Gangakhed,Soyabean,Yellow,17/06/2022,6600,6700,6600
+Maharashtra,Parbhani,Gangakhed,Wheat,Other,17/06/2022,2000,2200,2100
+Maharashtra,Parbhani,Jintur,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5700,5800,5700
+Maharashtra,Parbhani,Jintur,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4200,4200,4200
+Maharashtra,Parbhani,Jintur,Groundnut,Other,17/06/2022,5750,6025,5900
+Maharashtra,Parbhani,Jintur,Jowar(Sorghum),Other,17/06/2022,1575,1900,1575
+Maharashtra,Parbhani,Jintur,Soyabean,Yellow,17/06/2022,5701,6290,6200
+Maharashtra,Parbhani,Jintur,Turmeric,Other,17/06/2022,4400,6400,5975
+Maharashtra,Parbhani,Palam,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5650,5650,5650
+Maharashtra,Parbhani,Palam,Soyabean,Yellow,17/06/2022,6650,6650,6650
+Maharashtra,Pune,Indapur,Onion,Red,17/06/2022,200,1600,600
+Maharashtra,Pune,Indapur,Pomegranate,Other,17/06/2022,1200,12500,3700
+Maharashtra,Pune,Khed(Chakan),"Bhindi(Ladies Finger)",Other,17/06/2022,3500,4500,4000
+Maharashtra,Pune,Khed(Chakan),"Bitter gourd",Other,17/06/2022,2500,3500,3000
+Maharashtra,Pune,Khed(Chakan),"Bottle gourd",Other,17/06/2022,1000,2000,1500
+Maharashtra,Pune,Khed(Chakan),Brinjal,Other,17/06/2022,1500,2500,2000
+Maharashtra,Pune,Khed(Chakan),Cabbage,Other,17/06/2022,1000,1800,1400
+Maharashtra,Pune,Khed(Chakan),Carrot,Other,17/06/2022,2000,3000,2500
+Maharashtra,Pune,Khed(Chakan),Cauliflower,Other,17/06/2022,1000,1800,1400
+Maharashtra,Pune,Khed(Chakan),"Chilly Capsicum",Other,17/06/2022,3500,4500,4000
+Maharashtra,Pune,Khed(Chakan),Coriander(Leaves),Other,17/06/2022,500,1000,750
+Maharashtra,Pune,Khed(Chakan),Cucumbar(Kheera),Other,17/06/2022,1000,2000,1500
+Maharashtra,Pune,Khed(Chakan),Drumstick,Other,17/06/2022,4000,5000,4500
+Maharashtra,Pune,Khed(Chakan),"Green Chilli",Other,17/06/2022,4000,6000,5000
+Maharashtra,Pune,Khed(Chakan),Guar,Other,17/06/2022,4000,5000,4500
+Maharashtra,Pune,Khed(Chakan),Methi(Leaves),Other,17/06/2022,1000,1500,1250
+Maharashtra,Pune,Khed(Chakan),Onion,Other,17/06/2022,1000,1500,1250
+Maharashtra,Pune,Khed(Chakan),"Peas Wet",Other,17/06/2022,10000,12000,11000
+Maharashtra,Pune,Khed(Chakan),Potato,Other,17/06/2022,1500,2000,1750
+Maharashtra,Pune,Khed(Chakan),Ridgeguard(Tori),Other,17/06/2022,3000,4000,3500
+Maharashtra,Pune,Khed(Chakan),Spinach,Other,17/06/2022,400,600,500
+Maharashtra,Pune,Khed(Chakan),"Sweet Potato",Other,17/06/2022,3000,4000,3500
+Maharashtra,Pune,Khed(Chakan),Tomato,Other,17/06/2022,3000,4500,3500
+Maharashtra,Pune,Pune,"Amla(Nelli Kai)",Other,17/06/2022,2000,3000,2500
+Maharashtra,Pune,Pune,Apple,Other,17/06/2022,4000,14000,9000
+Maharashtra,Pune,Pune,Beans,Other,17/06/2022,5000,8000,6500
+Maharashtra,Pune,Pune,Beetroot,Other,17/06/2022,1000,1600,1300
+Maharashtra,Pune,Pune,"Bhindi(Ladies Finger)",Other,17/06/2022,1500,4000,2750
+Maharashtra,Pune,Pune,"Bitter gourd",Other,17/06/2022,2000,3000,2500
+Maharashtra,Pune,Pune,"Bottle gourd",Other,17/06/2022,1000,3500,2250
+Maharashtra,Pune,Pune,Brinjal,Other,17/06/2022,1000,2500,1750
+Maharashtra,Pune,Pune,Cabbage,Other,17/06/2022,1000,2000,1500
+Maharashtra,Pune,Pune,Carrot,Other,17/06/2022,1000,3000,2000
+Maharashtra,Pune,Pune,Cauliflower,Other,17/06/2022,800,1600,1200
+Maharashtra,Pune,Pune,Chikoos(Sapota),Other,17/06/2022,1000,2500,1800
+Maharashtra,Pune,Pune,"Chilly Capsicum",Other,17/06/2022,2000,5000,3500
+Maharashtra,Pune,Pune,Coriander(Leaves),Other,17/06/2022,5,12,8
+Maharashtra,Pune,Pune,Cucumbar(Kheera),Other,17/06/2022,1000,2200,1600
+Maharashtra,Pune,Pune,Drumstick,Other,17/06/2022,4000,6000,5000
+Maharashtra,Pune,Pune,"Elephant Yam (Suran)",Other,17/06/2022,1500,3000,2250
+Maharashtra,Pune,Pune,Garlic,Other,17/06/2022,1200,5500,3350
+Maharashtra,Pune,Pune,Ginger(Green),Other,17/06/2022,600,2150,1375
+Maharashtra,Pune,Pune,Grapes,Other,17/06/2022,3000,7000,5000
+Maharashtra,Pune,Pune,"Green Chilli",Other,17/06/2022,2000,5000,3500
+Maharashtra,Pune,Pune,Guar,Other,17/06/2022,2000,5000,3500
+Maharashtra,Pune,Pune,Guava,Other,17/06/2022,1000,2500,1800
+Maharashtra,Pune,Pune,"Jack Fruit",Other,17/06/2022,1000,2000,1500
+Maharashtra,Pune,Pune,"Jamun(Narale Hannu)",Other,17/06/2022,5000,12000,8500
+Maharashtra,Pune,Pune,"Karbuja(Musk Melon)",Other,17/06/2022,800,2400,1900
+Maharashtra,Pune,Pune,Lime,Other,17/06/2022,600,4000,2300
+Maharashtra,Pune,Pune,"Little gourd (Kundru)",Other,17/06/2022,1500,3000,2250
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,17/06/2022,1000,2500,1750
+Maharashtra,Pune,Pune,Methi(Leaves),Other,17/06/2022,6,13,9
+Maharashtra,Pune,Pune,Mint(Pudina),Other,17/06/2022,2,6,4
+Maharashtra,Pune,Pune,Onion,Local,17/06/2022,600,1600,1100
+Maharashtra,Pune,Pune,"Onion Green",Other,17/06/2022,10,20,15
+Maharashtra,Pune,Pune,Orange,Other,17/06/2022,1400,9000,5200
+Maharashtra,Pune,Pune,Papaya,Other,17/06/2022,500,1400,1000
+Maharashtra,Pune,Pune,Pear(Marasebu),Other,17/06/2022,6000,11000,8500
+Maharashtra,Pune,Pune,"Peas Wet",Other,17/06/2022,5000,10000,7500
+Maharashtra,Pune,Pune,Plum,Other,17/06/2022,3000,4000,3500
+Maharashtra,Pune,Pune,"Pointed gourd (Parval)",Other,17/06/2022,2000,3000,2500
+Maharashtra,Pune,Pune,Potato,Other,17/06/2022,1500,1900,1700
+Maharashtra,Pune,Pune,Pumpkin,Other,17/06/2022,1000,2000,1500
+Maharashtra,Pune,Pune,Raddish,Other,17/06/2022,10,20,15
+Maharashtra,Pune,Pune,Rajgir,Other,17/06/2022,4,7,5
+Maharashtra,Pune,Pune,Ridgeguard(Tori),Other,17/06/2022,2000,4000,3000
+Maharashtra,Pune,Pune,Seetapal,Other,17/06/2022,4000,5000,4500
+Maharashtra,Pune,Pune,Snakeguard,Other,17/06/2022,2000,2500,2250
+Maharashtra,Pune,Pune,Spinach,Other,17/06/2022,5,8,6
+Maharashtra,Pune,Pune,"Sweet Potato",Other,17/06/2022,1500,3000,2250
+Maharashtra,Pune,Pune,"Sweet Pumpkin",Other,17/06/2022,600,1200,900
+Maharashtra,Pune,Pune,"Tender Coconut",Other,17/06/2022,500,1100,800
+Maharashtra,Pune,Pune,Tomato,Local,17/06/2022,1500,4500,3000
+Maharashtra,Pune,Pune,"Water Melon",Other,17/06/2022,400,1000,700
+Maharashtra,Pune,Pune(Khadiki),"Bhindi(Ladies Finger)",Other,17/06/2022,2000,3000,2500
+Maharashtra,Pune,Pune(Khadiki),"Bottle gourd",Other,17/06/2022,1000,1200,1100
+Maharashtra,Pune,Pune(Khadiki),Brinjal,Other,17/06/2022,1500,2000,1750
+Maharashtra,Pune,Pune(Khadiki),Cabbage,Other,17/06/2022,800,1200,1000
+Maharashtra,Pune,Pune(Khadiki),Cauliflower,Other,17/06/2022,1300,1500,1400
+Maharashtra,Pune,Pune(Khadiki),Coriander(Leaves),Other,17/06/2022,8,10,9
+Maharashtra,Pune,Pune(Khadiki),Cucumbar(Kheera),Other,17/06/2022,1000,1300,1150
+Maharashtra,Pune,Pune(Khadiki),Garlic,Other,17/06/2022,3000,3000,3000
+Maharashtra,Pune,Pune(Khadiki),"Green Chilli",Other,17/06/2022,3000,3000,3000
+Maharashtra,Pune,Pune(Khadiki),Guar,Other,17/06/2022,4000,4000,4000
+Maharashtra,Pune,Pune(Khadiki),"Mango (Raw-Ripe)",Other,17/06/2022,1500,1500,1500
+Maharashtra,Pune,Pune(Khadiki),Methi(Leaves),Other,17/06/2022,9,10,10
+Maharashtra,Pune,Pune(Khadiki),Onion,Local,17/06/2022,1000,1200,1100
+Maharashtra,Pune,Pune(Khadiki),Potato,Other,17/06/2022,1400,1500,1450
+Maharashtra,Pune,Pune(Khadiki),Spinach,Other,17/06/2022,5,5,5
+Maharashtra,Pune,Pune(Khadiki),Tomato,Local,17/06/2022,2000,3200,2600
+Maharashtra,Pune,Pune(Moshi),"Amla(Nelli Kai)",Other,17/06/2022,3000,3000,3000
+Maharashtra,Pune,Pune(Moshi),Apple,Other,17/06/2022,6000,11000,8500
+Maharashtra,Pune,Pune(Moshi),Banana,Other,17/06/2022,2000,5000,3500
+Maharashtra,Pune,Pune(Moshi),Beans,Other,17/06/2022,3000,5500,4250
+Maharashtra,Pune,Pune(Moshi),Beetroot,Other,17/06/2022,1500,2000,1750
+Maharashtra,Pune,Pune(Moshi),"Bhindi(Ladies Finger)",Other,17/06/2022,3000,3500,3250
+Maharashtra,Pune,Pune(Moshi),"Bitter gourd",Other,17/06/2022,3000,4000,3500
+Maharashtra,Pune,Pune(Moshi),"Bottle gourd",Other,17/06/2022,1000,1500,1250
+Maharashtra,Pune,Pune(Moshi),Brinjal,Other,17/06/2022,1200,2000,1600
+Maharashtra,Pune,Pune(Moshi),Cabbage,Other,17/06/2022,1000,1500,1250
+Maharashtra,Pune,Pune(Moshi),Carrot,Other,17/06/2022,3000,3000,3000
+Maharashtra,Pune,Pune(Moshi),Cauliflower,Other,17/06/2022,1000,2000,1500
+Maharashtra,Pune,Pune(Moshi),Chikoos(Sapota),Other,17/06/2022,5000,5000,5000
+Maharashtra,Pune,Pune(Moshi),"Chilly Capsicum",Other,17/06/2022,3000,4000,3500
+Maharashtra,Pune,Pune(Moshi),Coriander(Leaves),Other,17/06/2022,8,10,9
+Maharashtra,Pune,Pune(Moshi),Cucumbar(Kheera),Other,17/06/2022,1000,1500,1250
+Maharashtra,Pune,Pune(Moshi),Drumstick,Other,17/06/2022,4000,5000,4500
+Maharashtra,Pune,Pune(Moshi),Garlic,Other,17/06/2022,1000,3500,2250
+Maharashtra,Pune,Pune(Moshi),Ginger(Green),Other,17/06/2022,1000,1500,1250
+Maharashtra,Pune,Pune(Moshi),"Green Chilli",Other,17/06/2022,350,5000,4250
+Maharashtra,Pune,Pune(Moshi),Guar,Other,17/06/2022,3500,4000,3750
+Maharashtra,Pune,Pune(Moshi),Lime,Other,17/06/2022,3000,5000,4000
+Maharashtra,Pune,Pune(Moshi),Mango,Other,17/06/2022,3000,7000,5000
+Maharashtra,Pune,Pune(Moshi),"Mango (Raw-Ripe)",Other,17/06/2022,2000,3000,2500
+Maharashtra,Pune,Pune(Moshi),Methi(Leaves),Other,17/06/2022,10,14,12
+Maharashtra,Pune,Pune(Moshi),Mint(Pudina),Other,17/06/2022,2,3,3
+Maharashtra,Pune,Pune(Moshi),Onion,Local,17/06/2022,400,1200,800
+Maharashtra,Pune,Pune(Moshi),"Onion Green",Other,17/06/2022,12,15,14
+Maharashtra,Pune,Pune(Moshi),Orange,Other,17/06/2022,7000,7000,7000
+Maharashtra,Pune,Pune(Moshi),Papaya,Other,17/06/2022,1000,1500,1250
+Maharashtra,Pune,Pune(Moshi),"Peas Wet",Other,17/06/2022,9000,10000,9500
+Maharashtra,Pune,Pune(Moshi),"Pointed gourd (Parval)",Other,17/06/2022,3000,3000,3000
+Maharashtra,Pune,Pune(Moshi),Pomegranate,Other,17/06/2022,6000,6000,6000
+Maharashtra,Pune,Pune(Moshi),Potato,Other,17/06/2022,1000,1600,1300
+Maharashtra,Pune,Pune(Moshi),Raddish,Other,17/06/2022,8,10,9
+Maharashtra,Pune,Pune(Moshi),Ridgeguard(Tori),Other,17/06/2022,3500,4000,3750
+Maharashtra,Pune,Pune(Moshi),Spinach,Other,17/06/2022,5,6,6
+Maharashtra,Pune,Pune(Moshi),Tomato,Local,17/06/2022,2000,3500,2750
+Maharashtra,Pune,Pune(Moshi),"Water Melon",Other,17/06/2022,400,700,550
+Maharashtra,Pune,Pune(Pimpri),"Bhindi(Ladies Finger)",Other,17/06/2022,3500,4500,4000
+Maharashtra,Pune,Pune(Pimpri),"Bottle gourd",Other,17/06/2022,1500,1500,1500
+Maharashtra,Pune,Pune(Pimpri),Brinjal,Other,17/06/2022,1500,2200,1850
+Maharashtra,Pune,Pune(Pimpri),Cabbage,Other,17/06/2022,1200,1200,1200
+Maharashtra,Pune,Pune(Pimpri),Cauliflower,Other,17/06/2022,1800,1800,1800
+Maharashtra,Pune,Pune(Pimpri),Coriander(Leaves),Other,17/06/2022,7,10,9
+Maharashtra,Pune,Pune(Pimpri),Cucumbar(Kheera),Other,17/06/2022,2000,2500,2250
+Maharashtra,Pune,Pune(Pimpri),"Hippe Seed",Other,17/06/2022,6,7,7
+Maharashtra,Pune,Pune(Pimpri),"Mango (Raw-Ripe)",Other,17/06/2022,2000,2000,2000
+Maharashtra,Pune,Pune(Pimpri),Mint(Pudina),Other,17/06/2022,3,4,4
+Maharashtra,Pune,Pune(Pimpri),Onion,Local,17/06/2022,600,1400,1000
+Maharashtra,Pune,Pune(Pimpri),Tomato,Local,17/06/2022,2500,4000,3250
+Maharashtra,Raigad,Alibagh,Rice,Other,17/06/2022,2000,2500,2200
+Maharashtra,Raigad,Murud,Rice,Other,17/06/2022,2000,2500,2200
+Maharashtra,Raigad,Panvel,Beans,Other,17/06/2022,4800,5600,5200
+Maharashtra,Raigad,Panvel,"Bitter gourd",Other,17/06/2022,3400,3600,3500
+Maharashtra,Raigad,Panvel,"Bottle gourd",Other,17/06/2022,2000,2200,2100
+Maharashtra,Raigad,Panvel,Cabbage,Other,17/06/2022,1400,1500,1450
+Maharashtra,Raigad,Panvel,Carrot,Other,17/06/2022,2400,2600,2500
+Maharashtra,Raigad,Panvel,Cucumbar(Kheera),Other,17/06/2022,1800,2000,1900
+Maharashtra,Raigad,Panvel,Guar,Other,17/06/2022,3800,4400,4100
+Maharashtra,Raigad,Panvel,Ridgeguard(Tori),Other,17/06/2022,3800,4400,4100
+Maharashtra,Raigad,Panvel,Tomato,Other,17/06/2022,3800,4400,4100
+Maharashtra,Sangli,Aatpadi,Pomegranate,Other,17/06/2022,1000,12100,7000
+Maharashtra,Sangli,Palus,"Bitter gourd",Other,17/06/2022,2500,3000,2700
+Maharashtra,Sangli,Palus,Brinjal,Other,17/06/2022,4000,5000,4500
+Maharashtra,Sangli,Palus,Cabbage,Other,17/06/2022,2000,2200,2100
+Maharashtra,Sangli,Palus,Ginger(Green),Other,17/06/2022,2000,2500,2200
+Maharashtra,Sangli,Palus,"Green Chilli",Other,17/06/2022,3000,4000,3500
+Maharashtra,Sangli,Palus,Tomato,Other,17/06/2022,3000,3500,3200
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Apple,Other,17/06/2022,4000,11000,7500
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Chikoos(Sapota),Other,17/06/2022,1000,3000,2000
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Mango,Hapus(Alphaso),17/06/2022,1000,5000,3000
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Onion,Local,17/06/2022,300,1700,1000
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Pineapple,Other,17/06/2022,800,2600,1700
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Potato,Other,17/06/2022,1400,2000,1700
+Maharashtra,Satara,Patan,"Bhindi(Ladies Finger)",Other,17/06/2022,2000,2500,2250
+Maharashtra,Satara,Patan,"Bitter gourd",Other,17/06/2022,2500,3500,3000
+Maharashtra,Satara,Patan,Brinjal,Other,17/06/2022,2500,3500,3000
+Maharashtra,Satara,Patan,Coriander(Leaves),Other,17/06/2022,9,11,10
+Maharashtra,Satara,Patan,Ginger(Green),Other,17/06/2022,1100,1300,1200
+Maharashtra,Satara,Patan,"Green Chilli",Other,17/06/2022,4000,5000,4500
+Maharashtra,Satara,Patan,Tomato,Other,17/06/2022,3500,5500,4500
+Maharashtra,Satara,Vai,Brinjal,Other,17/06/2022,3000,3500,3350
+Maharashtra,Satara,Vai,Cabbage,Other,17/06/2022,1500,2000,2000
+Maharashtra,Satara,Vai,Cauliflower,Other,17/06/2022,2500,3000,2700
+Maharashtra,Satara,Vai,Ginger(Green),Other,17/06/2022,1800,2200,2000
+Maharashtra,Satara,Vai,"Green Chilli",Other,17/06/2022,4500,6000,5850
+Maharashtra,Satara,Vai,Ridgeguard(Tori),Other,17/06/2022,3000,4000,3750
+Maharashtra,Satara,Vai,Tomato,Local,17/06/2022,2000,4000,3850
+Maharashtra,Sholapur,Dudhani,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5875,6260,6100
+Maharashtra,Sholapur,Dudhani,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4800,4940,4900
+Maharashtra,Sholapur,"Mangal Wedha","Bhindi(Ladies Finger)",Other,17/06/2022,600,2300,2000
+Maharashtra,Sholapur,"Mangal Wedha","Bitter gourd",Other,17/06/2022,2200,5000,3500
+Maharashtra,Sholapur,"Mangal Wedha",Brinjal,Other,17/06/2022,600,5600,3000
+Maharashtra,Sholapur,"Mangal Wedha",Coriander(Leaves),Other,17/06/2022,4,15,7
+Maharashtra,Sholapur,"Mangal Wedha",Cucumbar(Kheera),Other,17/06/2022,500,4100,1500
+Maharashtra,Sholapur,"Mangal Wedha","Green Chilli",Other,17/06/2022,3000,4000,3500
+Maharashtra,Sholapur,"Mangal Wedha",Onion,Other,17/06/2022,200,1500,900
+Maharashtra,Sholapur,"Mangal Wedha",Ridgeguard(Tori),Other,17/06/2022,800,3700,2900
+Maharashtra,Sholapur,"Mangal Wedha",Tomato,Other,17/06/2022,500,3400,3100
+Maharashtra,Sholapur,Pandharpur,Banana,Other,17/06/2022,700,1376,1225
+Maharashtra,Sholapur,Pandharpur,Pomegranate,Other,17/06/2022,1000,13000,6000
+Maharashtra,Sholapur,Sangola,Pomegranate,Other,17/06/2022,2500,11100,6500
+Maharashtra,Sholapur,Solapur,Apple,Other,17/06/2022,1000,2300,1300
+Maharashtra,Sholapur,Solapur,Beans,Other,17/06/2022,3500,4000,3500
+Maharashtra,Sholapur,Solapur,"Bitter gourd",Other,17/06/2022,2000,4200,3000
+Maharashtra,Sholapur,Solapur,Brinjal,Other,17/06/2022,500,3000,1500
+Maharashtra,Sholapur,Solapur,Cabbage,Other,17/06/2022,1000,2000,1500
+Maharashtra,Sholapur,Solapur,Cauliflower,Other,17/06/2022,640,1600,1040
+Maharashtra,Sholapur,Solapur,Chikoos(Sapota),Other,17/06/2022,1100,4000,2000
+Maharashtra,Sholapur,Solapur,"Chilly Capsicum",Other,17/06/2022,1500,3200,2500
+Maharashtra,Sholapur,Solapur,Coriander(Leaves),Other,17/06/2022,300,800,500
+Maharashtra,Sholapur,Solapur,Cucumbar(Kheera),Other,17/06/2022,500,3500,1500
+Maharashtra,Sholapur,Solapur,"Green Chilli",Other,17/06/2022,2800,4500,3000
+Maharashtra,Sholapur,Solapur,Guava,Other,17/06/2022,500,1500,900
+Maharashtra,Sholapur,Solapur,Gur(Jaggery),Yellow,17/06/2022,2600,3300,3251
+Maharashtra,Sholapur,Solapur,Jowar(Sorghum),Other,17/06/2022,2005,2275,2035
+Maharashtra,Sholapur,Solapur,Lime,Other,17/06/2022,200,3700,2900
+Maharashtra,Sholapur,Solapur,Methi(Leaves),Other,17/06/2022,500,1100,800
+Maharashtra,Sholapur,Solapur,Onion,Red,17/06/2022,100,2200,1000
+Maharashtra,Sholapur,Solapur,Papaya,Other,17/06/2022,500,500,500
+Maharashtra,Sholapur,Solapur,Pomegranate,Other,17/06/2022,1000,15100,5400
+Maharashtra,Sholapur,Solapur,Rajgir,Other,17/06/2022,600,600,600
+Maharashtra,Sholapur,Solapur,Rice,Other,17/06/2022,2795,6030,3800
+Maharashtra,Sholapur,Solapur,Ridgeguard(Tori),Other,17/06/2022,1000,4000,2000
+Maharashtra,Sholapur,Solapur,Soyabean,Other,17/06/2022,6395,6570,6410
+Maharashtra,Sholapur,Solapur,Spinach,Other,17/06/2022,200,300,250
+Maharashtra,Sholapur,Solapur,Tomato,Other,17/06/2022,400,4000,2000
+Maharashtra,Sholapur,Solapur,"Water Melon",Other,17/06/2022,500,800,600
+Maharashtra,Sholapur,Solapur,Wheat,Sharbati,17/06/2022,2300,3350,2645
+Maharashtra,Thane,Murbad,"Bhindi(Ladies Finger)",Other,17/06/2022,1500,2500,2000
+Maharashtra,Thane,Palghar,Rice,"1009 Kar",17/06/2022,3592,3592,3592
+Maharashtra,Vashim,Karanja,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5400,6275,5890
+Maharashtra,Vashim,Karanja,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4020,4430,4210
+Maharashtra,Vashim,Karanja,"Green Gram (Moong)(Whole)",Other,17/06/2022,5300,5895,5600
+Maharashtra,Vashim,Karanja,Groundnut,Other,17/06/2022,5470,6660,5910
+Maharashtra,Vashim,Karanja,"Sesamum(Sesame,Gingelly,Til)",Other,17/06/2022,9990,10100,9990
+Maharashtra,Vashim,Karanja,Soyabean,Other,17/06/2022,6025,6740,6350
+Maharashtra,Vashim,Karanja,Wheat,Other,17/06/2022,1995,2200,2110
+Maharashtra,Vashim,Risod,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,4100,4400,4250
+Maharashtra,Vashim,Risod,"Black Gram (Urd Beans)(Whole)",Other,17/06/2022,6000,6490,6250
+Maharashtra,Vashim,Risod,"Green Gram (Moong)(Whole)",Other,17/06/2022,5650,6245,5950
+Maharashtra,Vashim,Risod,Soyabean,Other,17/06/2022,5800,6555,6200
+Maharashtra,Vashim,Washim(Ansing),"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5150,5850,5500
+Maharashtra,Vashim,Washim(Ansing),"Green Gram (Moong)(Whole)",Other,17/06/2022,5150,5675,5500
+Maharashtra,Vashim,Washim(Ansing),Soyabean,Yellow,17/06/2022,5950,6550,6200
+Maharashtra,Yavatmal,Pandhakawada,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,6000,6200,6150
+Maharashtra,Yavatmal,Yeotmal,"Arhar (Tur/Red Gram)(Whole)",Other,17/06/2022,5560,6240,5900
+Maharashtra,Yavatmal,Yeotmal,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,1925,2000,1962
+Maharashtra,Yavatmal,Yeotmal,"Green Gram (Moong)(Whole)","Green (Whole)",17/06/2022,4400,4400,4400
+Maharashtra,Yavatmal,Yeotmal,Groundnut,Other,17/06/2022,5795,6165,5985
+Maharashtra,Yavatmal,Yeotmal,"Sesamum(Sesame,Gingelly,Til)",Gajjar,17/06/2022,10000,10000,10000
+Maharashtra,Yavatmal,Yeotmal,Soyabean,Yellow,17/06/2022,6000,6490,6245
+Meghalaya,"East Khasi Hills","Mawiong Regulated Market","Broomstick(Flower Broom)",Other,17/06/2022,12000,13500,13000
+Meghalaya,"East Khasi Hills",Shillong,Arecanut(Betelnut/Supari),"New Variety",17/06/2022,12000,18000,16000
+Meghalaya,"East Khasi Hills",Shillong,Banana,"Banana - Ripe",17/06/2022,2500,4000,3500
+Meghalaya,"East Khasi Hills",Shillong,Beetroot,Beetroot,17/06/2022,8000,9000,8500
+Meghalaya,"East Khasi Hills",Shillong,"Betal Leaves",Local,17/06/2022,14000,20000,18000
+Meghalaya,"East Khasi Hills",Shillong,"Bitter gourd","Bitter Gourd",17/06/2022,3000,4000,3500
+Meghalaya,"East Khasi Hills",Shillong,Brinjal,Brinjal,17/06/2022,4000,4500,4200
+Meghalaya,"East Khasi Hills",Shillong,Cabbage,Cabbage,17/06/2022,1600,2000,1800
+Meghalaya,"East Khasi Hills",Shillong,Capsicum,Capsicum,17/06/2022,6000,8000,7000
+Meghalaya,"East Khasi Hills",Shillong,Carrot,Carrot,17/06/2022,7000,8000,7500
+Meghalaya,"East Khasi Hills",Shillong,Cauliflower,Local,17/06/2022,4000,5000,4500
+Meghalaya,"East Khasi Hills",Shillong,Cucumbar(Kheera),Cucumbar,17/06/2022,1500,1800,1650
+Meghalaya,"East Khasi Hills",Shillong,"Field Pea","Field Pea",17/06/2022,6000,7000,6500
+Meghalaya,"East Khasi Hills",Shillong,"French Beans (Frasbean)","French Beans (Frasbean)",17/06/2022,8000,10000,9000
+Meghalaya,"East Khasi Hills",Shillong,Ginger(Dry),Dry,17/06/2022,3500,4500,4000
+Meghalaya,"East Khasi Hills",Shillong,"Green Chilli","Green Chilly",17/06/2022,7000,8000,7500
+Meghalaya,"East Khasi Hills",Shillong,Peach,Peach,17/06/2022,3000,4000,3500
+Meghalaya,"East Khasi Hills",Shillong,Pineapple,"Pine Apple",17/06/2022,3000,4000,3500
+Meghalaya,"East Khasi Hills",Shillong,Plum,Plum,17/06/2022,4000,6000,5000
+Meghalaya,"East Khasi Hills",Shillong,Potato,Local,17/06/2022,1800,2400,2200
+Meghalaya,"East Khasi Hills",Shillong,Pumpkin,Pumpkin,17/06/2022,1700,1900,1800
+Meghalaya,"East Khasi Hills",Shillong,Raddish,Raddish,17/06/2022,1200,1500,1400
+Meghalaya,"East Khasi Hills",Shillong,"Squash(Chappal Kadoo)","Squash(Chappal Kadoo)",17/06/2022,3000,4000,3500
+Meghalaya,"East Khasi Hills",Shillong,Tomato,Hybrid,17/06/2022,2000,3000,2500
+Meghalaya,"East Khasi Hills",Shillong,Turnip,Turnip,17/06/2022,4000,5000,4500
+Nagaland,Dimapur,Niuland,Arecanut(Betelnut/Supari),api,17/06/2022,2500,2700,2600
+Nagaland,Dimapur,Niuland,"Banana - Green",Other,17/06/2022,1500,1700,1600
+Nagaland,Dimapur,Niuland,"Bitter gourd","Bitter Gourd",17/06/2022,3000,3300,3200
+Nagaland,Dimapur,Niuland,Brinjal,Brinjal,17/06/2022,4000,4300,4200
+Nagaland,Dimapur,Niuland,"Green Chilli","Green Chilly",17/06/2022,8000,8300,8200
+Nagaland,Dimapur,Niuland,"Leafy Vegetable","Leafy Vegetables",17/06/2022,4000,4300,4200
+Nagaland,Dimapur,Niuland,"Yam (Ratalu)","Yam (Ratalu)",17/06/2022,3500,3800,3700
+Nagaland,Kiphire,Kipheri,Banana,Amruthapani,17/06/2022,4100,4300,4200
+Nagaland,Kiphire,Kipheri,Cabbage,Cabbage,17/06/2022,3400,3600,3500
+Nagaland,Kiphire,Kipheri,"Leafy Vegetable","Leafy Vegetables",17/06/2022,3100,3300,3200
+Nagaland,Kiphire,Kipheri,Potato,Potato,17/06/2022,3000,3200,3100
+Nagaland,Kiphire,Kipheri,Tomato,Local,17/06/2022,4100,4300,4200
+Nagaland,Kohima,Jalukie,"Bitter gourd","Bitter Gourd",17/06/2022,7000,7300,7200
+Nagaland,Kohima,Jalukie,Brinjal,Other,17/06/2022,6000,6200,6100
+Nagaland,Kohima,Jalukie,"Leafy Vegetable","Leafy Vegetables",17/06/2022,6000,6300,6200
+Nagaland,Kohima,Jalukie,Onion,"1st Sort",17/06/2022,5800,6000,5900
+Nagaland,Kohima,Jalukie,Potato,Other,17/06/2022,7500,7700,7600
+Nagaland,Kohima,Jalukie,Yam,Other,17/06/2022,5000,5200,5100
+Nagaland,Kohima,Kohima,Beans,"Beans (Whole)",17/06/2022,6500,7000,6700
+Nagaland,Kohima,Kohima,Cabbage,Cabbage,17/06/2022,3500,4000,3700
+Nagaland,Kohima,Kohima,Ginger(Green),"Green Ginger",17/06/2022,5000,5500,5300
+Nagaland,Kohima,Kohima,"Green Chilli","Green Chilly",17/06/2022,7100,7500,7300
+Nagaland,Kohima,Kohima,Potato,Potato,17/06/2022,2800,3200,3000
+Nagaland,Longleng,Longleng,Banana,"Banana - Ripe",17/06/2022,5000,5300,5100
+Nagaland,Longleng,Longleng,Cucumbar(Kheera),Cucumbar,17/06/2022,3200,3500,3300
+Nagaland,Longleng,Longleng,Ginger(Green),"Green Ginger",17/06/2022,4000,4300,4100
+Nagaland,Longleng,Longleng,"Leafy Vegetable","Leafy Vegetables",17/06/2022,3000,3300,3100
+Nagaland,Peren,Tenning,"Bitter gourd",Other,17/06/2022,4400,4600,4500
+Nagaland,Peren,Tenning,Cucumbar(Kheera),Other,17/06/2022,5000,5300,5200
+Nagaland,Peren,Tenning,"Leafy Vegetable","Leafy Vegetables",17/06/2022,4500,4700,4600
+Nagaland,Peren,Tenning,"Yam (Ratalu)",Other,17/06/2022,5000,5300,5200
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,"Bata Putti",17/06/2022,4000,6000,5000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,"Black Dom",17/06/2022,6000,8000,7000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,"Blue Dom",17/06/2022,8000,10000,9000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Chilwa,17/06/2022,10000,14000,12000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Halwa,17/06/2022,14000,18000,16000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Hilsa,17/06/2022,55000,65000,60000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,"Katla (Small)",17/06/2022,8000,10000,9000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Katla(Big),17/06/2022,14000,18000,16000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Malli(Big),17/06/2022,14000,18000,16000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Malli(Small),17/06/2022,8000,10000,9000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Pangass,17/06/2022,8000,10000,9000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Rahu(Andhra),17/06/2022,10000,14000,12000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Singhra(Big),17/06/2022,20000,30000,26000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Singhra(Small),17/06/2022,15000,20000,18000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Sol,17/06/2022,12000,19000,16000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Soli,17/06/2022,20000,30000,25000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Surmai(Big),17/06/2022,50000,60000,56000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Surmali(Small),17/06/2022,30000,40000,36000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,"White Dom",17/06/2022,8000,10000,9000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Zinga(Zambo-A),17/06/2022,40000,50000,46000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Zinga(Zambo-B),17/06/2022,30000,40000,36000
+"NCT of Delhi",Delhi,"Fish,Poultry & Egg Market, Gazipur",Fish,Zinga(Zambo-C),17/06/2022,20000,30000,26000
+"NCT of Delhi",Delhi,"Flower Market,Gazipur",Carnation,Cornation,17/06/2022,2.5,4,3.5
+"NCT of Delhi",Delhi,"Flower Market,Gazipur",Chrysanthemum,Chrysathemum(Loose),17/06/2022,3,5,4.5
+"NCT of Delhi",Delhi,"Flower Market,Gazipur","Gladiolus Cut Flower","Gladiolus Cut Flower",17/06/2022,2.08,2.91,2.5
+"NCT of Delhi",Delhi,"Flower Market,Gazipur",Jaffri,Other,17/06/2022,2000,3000,2500
+"NCT of Delhi",Delhi,"Flower Market,Gazipur",Jarbara,Other,17/06/2022,2,5,4
+"NCT of Delhi",Delhi,"Flower Market,Gazipur",Lilly,Other,17/06/2022,20,30,28
+"NCT of Delhi",Delhi,"Flower Market,Gazipur",Lotus,Other,17/06/2022,2,4,3
+"NCT of Delhi",Delhi,"Flower Market,Gazipur",Marget,Other,17/06/2022,3000,6000,5000
+"NCT of Delhi",Delhi,"Flower Market,Gazipur",Raibel,Other,17/06/2022,20000,30000,28000
+"NCT of Delhi",Delhi,"Flower Market,Gazipur",Rose(Loose)),Rose(Loose),17/06/2022,4000,8000,7500
+"NCT of Delhi",Delhi,"Flower Market,Gazipur","Tube Rose(Double)",Other,17/06/2022,2.08,2.5,2.29
+"NCT of Delhi",Delhi,"Flower Market,Gazipur","Tube Rose(Single)",Other,17/06/2022,0.83,1.25,1.04
+"NCT of Delhi",Delhi,Keshopur,"Bitter gourd","Bitter Gourd",17/06/2022,1200,1800,1500
+"NCT of Delhi",Delhi,Keshopur,"Bottle gourd","Bottle Gourd",17/06/2022,1200,1800,1500
+"NCT of Delhi",Delhi,Keshopur,Brinjal,Brinjal,17/06/2022,1800,3000,2400
+"NCT of Delhi",Delhi,Keshopur,Capsicum,Capsicum,17/06/2022,2200,3600,2800
+"NCT of Delhi",Delhi,Keshopur,Cauliflower,Cauliflower,17/06/2022,3000,5000,4000
+"NCT of Delhi",Delhi,Keshopur,Cucumbar(Kheera),Cucumbar,17/06/2022,1100,1900,1500
+"NCT of Delhi",Delhi,Keshopur,Onion,Onion,17/06/2022,1000,1800,1400
+"NCT of Delhi",Delhi,Keshopur,"Peas Wet","Peas Wet",17/06/2022,4000,6600,5300
+"NCT of Delhi",Delhi,Keshopur,Potato,Potato,17/06/2022,1200,2000,1600
+"NCT of Delhi",Delhi,Keshopur,Pumpkin,Pumpkin,17/06/2022,500,1500,1000
+"NCT of Delhi",Delhi,Keshopur,Raddish,Raddish,17/06/2022,2500,4500,3500
+"NCT of Delhi",Delhi,Keshopur,Tomato,Tomato,17/06/2022,2400,4800,3600
+Odisha,Balasore,Jaleswar,Brinjal,Other,17/06/2022,1800,2000,1900
+Odisha,Balasore,Jaleswar,Cucumbar(Kheera),Cucumbar,17/06/2022,1600,1800,1700
+Odisha,Balasore,Jaleswar,Garlic,Other,17/06/2022,4000,5000,4500
+Odisha,Balasore,Jaleswar,Ginger(Dry),Other,17/06/2022,2800,3000,2900
+Odisha,Balasore,Jaleswar,Onion,Other,17/06/2022,1400,1600,1500
+Odisha,Balasore,Jaleswar,Potato,Other,17/06/2022,1600,1800,1700
+Odisha,Balasore,Nilagiri,Brinjal,Other,17/06/2022,2200,2400,2300
+Odisha,Balasore,Nilagiri,Cucumbar(Kheera),Other,17/06/2022,1900,2000,1950
+Odisha,Balasore,Nilagiri,Onion,Other,17/06/2022,1300,1500,1400
+Odisha,Balasore,Nilagiri,Potato,Other,17/06/2022,1700,1800,1750
+Odisha,Bargarh,Bargarh,"Bhindi(Ladies Finger)",Other,17/06/2022,2100,2300,2200
+Odisha,Bargarh,Bargarh,Brinjal,Other,17/06/2022,2400,2600,2500
+Odisha,Bargarh,Bargarh,Onion,Other,17/06/2022,2600,2800,2700
+Odisha,Bargarh,Bargarh,Potato,Other,17/06/2022,2000,2200,2100
+Odisha,Bargarh,Bargarh(Barapalli),Brinjal,Other,17/06/2022,2800,3000,2900
+Odisha,Bargarh,Bargarh(Barapalli),Cabbage,Cabbage,17/06/2022,1000,1200,1100
+Odisha,Bargarh,Bargarh(Barapalli),Onion,Other,17/06/2022,2600,2800,2700
+Odisha,Bargarh,Bargarh(Barapalli),Potato,Other,17/06/2022,2200,2400,2300
+Odisha,Bargarh,Bargarh(Barapalli),Tomato,Other,17/06/2022,4500,4700,4600
+Odisha,Bolangir,Bolangir,"Bhindi(Ladies Finger)",Other,17/06/2022,2800,3000,2800
+Odisha,Bolangir,Bolangir,"Bitter gourd",Other,17/06/2022,3800,4000,3800
+Odisha,Bolangir,Bolangir,Brinjal,Other,17/06/2022,1800,2000,1800
+Odisha,Bolangir,Bolangir,Cabbage,Other,17/06/2022,3800,4000,3800
+Odisha,Bolangir,Bolangir,Capsicum,Other,17/06/2022,5800,6000,5800
+Odisha,Bolangir,Bolangir,Carrot,Other,17/06/2022,2800,3000,2800
+Odisha,Bolangir,Bolangir,Cauliflower,Other,17/06/2022,4800,5000,4800
+Odisha,Bolangir,Bolangir,"Chili Red",Other,17/06/2022,24800,25000,24800
+Odisha,Bolangir,Bolangir,Cucumbar(Kheera),Other,17/06/2022,3800,4000,3800
+Odisha,Bolangir,Bolangir,Garlic,Other,17/06/2022,6800,7000,6800
+Odisha,Bolangir,Bolangir,Ginger(Dry),Other,17/06/2022,5800,6000,5800
+Odisha,Bolangir,Bolangir,"Green Chilli",Other,17/06/2022,5800,6000,5800
+Odisha,Bolangir,Bolangir,Onion,Other,17/06/2022,1700,1800,1700
+Odisha,Bolangir,Bolangir,Potato,Other,17/06/2022,2400,2500,2400
+Odisha,Bolangir,Bolangir,Pumpkin,Other,17/06/2022,1400,1500,1400
+Odisha,Bolangir,Bolangir,Rice,Other,17/06/2022,3400,3500,3400
+Odisha,Bolangir,Bolangir,Tomato,Local,17/06/2022,5800,6000,5800
+Odisha,Bolangir,Kantabaji,Brinjal,Other,17/06/2022,3000,4000,4000
+Odisha,Bolangir,Kantabaji,Cauliflower,Other,17/06/2022,5000,6000,6000
+Odisha,Bolangir,Kantabaji,Tomato,Other,17/06/2022,5000,6000,6000
+Odisha,Bolangir,Tusura,"Bhindi(Ladies Finger)",Other,17/06/2022,2800,3000,2800
+Odisha,Bolangir,Tusura,Brinjal,Other,17/06/2022,1800,2000,1800
+Odisha,Bolangir,Tusura,Cabbage,Other,17/06/2022,3800,4000,3800
+Odisha,Bolangir,Tusura,Garlic,Other,17/06/2022,5800,6000,5800
+Odisha,Bolangir,Tusura,Onion,Other,17/06/2022,1700,1800,1700
+Odisha,Bolangir,Tusura,Potato,Other,17/06/2022,2400,2500,2400
+Odisha,Bolangir,Tusura,Rice,Other,17/06/2022,3400,3500,3400
+Odisha,Bolangir,Tusura,Tomato,Other,17/06/2022,5800,6000,5800
+Odisha,Dhenkanal,Hindol,"Banana - Green",Other,17/06/2022,2400,2800,2600
+Odisha,Dhenkanal,Hindol,Beans,Other,17/06/2022,4400,4600,4500
+Odisha,Dhenkanal,Hindol,"Bhindi(Ladies Finger)",Bhindi,17/06/2022,2400,2600,2500
+Odisha,Dhenkanal,Hindol,"Bitter gourd","Bitter Gourd",17/06/2022,3300,3500,3400
+Odisha,Dhenkanal,Hindol,Brinjal,Brinjal,17/06/2022,2500,3500,3000
+Odisha,Dhenkanal,Hindol,Cucumbar(Kheera),Cucumbar,17/06/2022,3200,3500,3400
+Odisha,Dhenkanal,Hindol,Onion,Other,17/06/2022,1600,1800,1700
+Odisha,Dhenkanal,Hindol,"Pointed gourd (Parval)",Other,17/06/2022,3800,4500,4000
+Odisha,Dhenkanal,Hindol,Potato,Potato,17/06/2022,2200,2500,2400
+Odisha,Dhenkanal,Hindol,Pumpkin,Pumpkin,17/06/2022,1300,1500,1400
+Odisha,Dhenkanal,Hindol,Tomato,Tomato,17/06/2022,6500,7500,7000
+Odisha,Dhenkanal,Kamakhyanagar,"Bhindi(Ladies Finger)",Bhindi,17/06/2022,1900,2100,2000
+Odisha,Dhenkanal,Kamakhyanagar,"Bitter gourd","Bitter Gourd",17/06/2022,4000,4500,4000
+Odisha,Dhenkanal,Kamakhyanagar,Brinjal,Brinjal,17/06/2022,2900,3200,3000
+Odisha,Dhenkanal,Kamakhyanagar,Cabbage,Cabbage,17/06/2022,2900,3200,3000
+Odisha,Dhenkanal,Kamakhyanagar,Cauliflower,Cauliflower,17/06/2022,4000,4200,4000
+Odisha,Dhenkanal,Kamakhyanagar,Cucumbar(Kheera),Cucumbar,17/06/2022,3400,4000,3500
+Odisha,Dhenkanal,Kamakhyanagar,"Green Chilli","Green Chilly",17/06/2022,8000,8500,8000
+Odisha,Dhenkanal,Kamakhyanagar,Onion,Onion,17/06/2022,1900,2100,2000
+Odisha,Dhenkanal,Kamakhyanagar,"Pointed gourd (Parval)",Other,17/06/2022,5000,5200,5000
+Odisha,Dhenkanal,Kamakhyanagar,Potato,Potato,17/06/2022,2400,3000,2500
+Odisha,Dhenkanal,Kamakhyanagar,Pumpkin,Pumpkin,17/06/2022,1900,2100,2000
+Odisha,Dhenkanal,Kamakhyanagar,Tomato,Tomato,17/06/2022,9000,9500,9000
+Odisha,Gajapati,Kasinagar,Brinjal,Other,17/06/2022,1500,2000,2000
+Odisha,Gajapati,Kasinagar,Mango,Other,17/06/2022,4000,5000,5000
+Odisha,Gajapati,Parlakhemundi,Banana,Other,17/06/2022,2500,3000,3000
+Odisha,Gajapati,Parlakhemundi,Brinjal,Other,17/06/2022,1500,2000,2000
+Odisha,Jagatsinghpur,Jagatsinghpur,Brinjal,Round,17/06/2022,1700,2100,1900
+Odisha,Jagatsinghpur,Jagatsinghpur,Potato,Potato,17/06/2022,1800,2200,2000
+Odisha,Jajpur,Jajpur,"Bhindi(Ladies Finger)",Bhindi,17/06/2022,2000,2500,2500
+Odisha,Jajpur,Jajpur,"Bitter gourd","Bitter Gourd",17/06/2022,2000,2500,2500
+Odisha,Jajpur,Jajpur,Brinjal,Round/Long,17/06/2022,2500,3000,3000
+Odisha,Jajpur,Jajpur,Cabbage,Cabbage,17/06/2022,2800,3000,3000
+Odisha,Jajpur,Jajpur,Carrot,Carrot,17/06/2022,3000,3500,3500
+Odisha,Jajpur,Jajpur,Cauliflower,Cauliflower,17/06/2022,2500,3000,3000
+Odisha,Jajpur,Jajpur,Cucumbar(Kheera),Cucumbar,17/06/2022,2000,2500,2500
+Odisha,Jajpur,Jajpur,Drumstick,Other,17/06/2022,8000,10000,10000
+Odisha,Jajpur,Jajpur,"Green Chilli","Green Chilly",17/06/2022,6000,7000,7000
+Odisha,Jajpur,Jajpur,"Green Chilli",Other,17/06/2022,4000,5000,5000
+Odisha,Jajpur,Jajpur,Onion,Onion,17/06/2022,1200,1600,1600
+Odisha,Jajpur,Jajpur,"Papaya (Raw)",Other,17/06/2022,1800,2000,2000
+Odisha,Jajpur,Jajpur,"Pointed gourd (Parval)",Other,17/06/2022,2500,3000,3000
+Odisha,Jajpur,Jajpur,Potato,Potato,17/06/2022,1940,1940,1940
+Odisha,Jajpur,Jajpur,Pumpkin,Pumpkin,17/06/2022,1000,1200,1200
+Odisha,Jajpur,Jajpur,Ridgeguard(Tori),Ridgeguard(Tori),17/06/2022,1600,2000,2000
+Odisha,Jajpur,Jajpur,Tomato,Other,17/06/2022,5000,5500,5500
+Odisha,Jharsuguda,Jharsuguda,Onion,Other,17/06/2022,1600,2000,2000
+Odisha,Jharsuguda,Jharsuguda,Paddy(Dhan)(Common),Other,17/06/2022,1940,1940,1940
+Odisha,Jharsuguda,Jharsuguda,Potato,Other,17/06/2022,2000,2500,2500
+Odisha,Kalahandi,Kesinga,Cabbage,Other,17/06/2022,4000,4500,4200
+Odisha,Kalahandi,Kesinga,"Mango (Raw-Ripe)",Other,17/06/2022,7000,8000,7500
+Odisha,Kalahandi,Kesinga,"Pointed gourd (Parval)",Other,17/06/2022,8000,8500,8200
+Odisha,Kalahandi,Kesinga,Potato,Other,17/06/2022,2500,2500,2500
+Odisha,Kalahandi,Kesinga,Pumpkin,Other,17/06/2022,1500,1800,1600
+Odisha,Kandhamal,Tikabali,Cauliflower,Other,17/06/2022,2800,3000,2900
+Odisha,Kendrapara,Kendrapara,Brinjal,Brinjal,17/06/2022,4000,4200,4000
+Odisha,Koraput,Koraput,"Bitter gourd",Other,17/06/2022,1900,2100,2000
+Odisha,Koraput,Koraput,Brinjal,Other,17/06/2022,1800,2000,1900
+Odisha,Koraput,Koraput,Pumpkin,Other,17/06/2022,500,700,600
+Odisha,Koraput,Koraput,"White Pumpkin",Other,17/06/2022,1100,1300,1200
+Odisha,Koraput,Koraput(Semilguda),"Bhindi(Ladies Finger)",Other,17/06/2022,2800,3000,2900
+Odisha,Koraput,Koraput(Semilguda),Cabbage,Other,17/06/2022,1200,1400,1300
+Odisha,Koraput,Koraput(Semilguda),Cauliflower,Other,17/06/2022,3400,3600,3500
+Odisha,Koraput,Koraput(Semilguda),Drumstick,Other,17/06/2022,4900,5100,5000
+Odisha,Koraput,Koraput(Semilguda),Pumpkin,Other,17/06/2022,500,700,600
+Odisha,Malkangiri,Malkanagiri,"Bhindi(Ladies Finger)",Other,17/06/2022,2000,2000,2000
+Odisha,Malkangiri,Malkanagiri,Brinjal,Other,17/06/2022,1800,1800,1800
+Odisha,Malkangiri,Malkanagiri,Cabbage,Other,17/06/2022,2200,2200,2200
+Odisha,Malkangiri,Malkanagiri,Cucumbar(Kheera),Cucumbar,17/06/2022,1100,1100,1100
+Odisha,Malkangiri,Malkangiri(Korakunda),"Bhindi(Ladies Finger)",Bhindi,17/06/2022,1600,1800,1600
+Odisha,Malkangiri,Malkangiri(Korakunda),"Bitter gourd",Other,17/06/2022,1800,1800,1800
+Odisha,Malkangiri,Malkangiri(Korakunda),Brinjal,Other,17/06/2022,2000,2000,2000
+Odisha,Malkangiri,Malkangiri(Korakunda),Cauliflower,Other,17/06/2022,2500,2500,2500
+Odisha,Mayurbhanja,Betnoti,"Bhindi(Ladies Finger)",Bhindi,17/06/2022,1200,1800,1500
+Odisha,Mayurbhanja,Betnoti,"Bitter gourd","Bitter Gourd",17/06/2022,1400,2000,1800
+Odisha,Mayurbhanja,Betnoti,Brinjal,Other,17/06/2022,1300,2000,1600
+Odisha,Mayurbhanja,Betnoti,Cucumbar(Kheera),Cucumbar,17/06/2022,1400,2200,1800
+Odisha,Mayurbhanja,Betnoti,"Little gourd (Kundru)",Other,17/06/2022,1300,2000,1600
+Odisha,Mayurbhanja,Betnoti,"Water Melon","Water Melon",17/06/2022,1400,1800,1600
+Odisha,Mayurbhanja,Karanjia,Apple,Other,17/06/2022,15000,17000,16000
+Odisha,Mayurbhanja,Karanjia,Apple,Other,17/06/2022,13000,15000,14000
