@@ -85,45 +85,6 @@
     <strong>{{ i.min_price }} </strong> {% endfor %}-->
 
 
-    {% comment %}
-    <h1>OP</h1>
-    {{cols}}
-    <br> {{row_len}}
-    <br> {{col_len}}
-
-    <br><br><br> {% endcomment %} {% comment %}
-    <table>
-
-        <tr>
-
-            {% for i in cols %}
-            <th> {{i}} </th>
-            {% endfor %}
-
-        </tr>
-
-        <tr>
-
-            {% for i in row_len %}
-
-            <tr>
-
-                {% for j in col_len %}
-
-                <td> {{ data[j][i] }} </td>
-
-                {% endfor %}
-
-            </tr>
-
-            {% endfor %}
-
-        </tr>
-
-
-
-
-    </table> {% endcomment %}
 
     <br/>
     <br/>
@@ -132,7 +93,7 @@
     <br/>
 
     <div class="container">
-        <table class="table table-striped">
+        <table>
             <thead>
                 <tr>
                     <th>State</th>

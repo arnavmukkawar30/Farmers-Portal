@@ -43,7 +43,7 @@ nav {
     /* border: 2px solid red; */
 }
 
-.list>* {
+nav>.list>* {
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -71,4 +71,14 @@ a {
 a:hover {
     /* color: rgb(207, 205, 205); */
     color: #fff
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+table {
+    border: 1px solid black;
+    border-radius: 15px;
 }

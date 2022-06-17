@@ -17,6 +17,16 @@ nav {
     background-color: #0b8507;
 }
 
+.hellomsg {
+    font-size: 18px;
+    color: #fff;
+}
+
+.h {
+    font-size: 20px;
+    color: #fff;
+}
+
 .namelogo {
     display: flex;
     flex-direction: row;

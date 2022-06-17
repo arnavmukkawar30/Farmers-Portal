@@ -18,3 +18,9 @@ class Sell(models.Model):
     def __str__(self):
         # price=string(self.Price) 
         return self.CropName+ ' ' + '' + ' ( Seller = ' + self.SellerName +' )'
+class price(models.Model):
+    CropName = models.CharField(max_length=20)
+    Price= models.IntegerField(default=0,blank=True,null=True)
+    def __str__(self):
+        # price=string(self.Price) 
+        return self.CropName

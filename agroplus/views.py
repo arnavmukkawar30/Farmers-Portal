@@ -1,11 +1,23 @@
 from django.shortcuts import redirect, render,HttpResponse
-from agroplus.models import Sell
+from agroplus.models import Sell,price
 from datetime import datetime
 import requests
 import pandas as pd 
 import json
 
+# FOR LOGIN AND LOGOUT 
+
+from django.contrib import messages
+from django.contrib.auth.forms import UserCreationForm
+from .models import *
+from .forms import CreateUserForm
+from django.forms import *
+from django.contrib import messages
+from django.contrib.auth import authenticate,login,logout
+from django.contrib.auth.decorators import login_required
+
 # Create your views here.
+@login_required(login_url='login')
 def home(request):
     return render(request, 'home.html')
 
@@ -28,6 +40,7 @@ def SellFun(request):
         # imgpath = 'media/'+imgpath
         # if(not Image):
         #     Image= "static/Sell_images/AGROPLUS.png"
+        data2=price.objects.filter(CropName=CropName)
         sell = Sell(SellerName=SellerName,CropName=CropName,Image=Image,Price=Price,Description=Description,imgpath=imgpath,date=datetime.now())
         sell.save()
         return redirect('Buy')
@@ -60,6 +73,47 @@ def Croprate(request):
     return render(request, 'croprate.html', context)
 
 
+def loginpage(request): 
+    if request.user.is_authenticated:
+        return redirect('home')
+    else:
+        if request.method == 'POST':
+            username=request.POST.get('username')
+            password=request.POST.get('password')
+
+            #authenticate user
+
+            user = authenticate(request, username=username, password=password)
+
+            if user is not None :
+                login(request, user)
+                return redirect('home')
+            else :
+                messages.info(request, 'Username or Password is incorrect')
+
+        context = {}
+        return render(request, 'login.html')
+    
+def logoutUser(request):
+    logout(request)
+    return redirect('login')
+
+
+def registerpage(request):
+    if request.user.is_authenticated:
+        return redirect('home')
+    else:    
+        form = CreateUserForm()
+
+        if request.method == 'POST':
+            form = CreateUserForm(request.POST)
+            if form.is_valid():
+                form.save()
+                user = form.cleaned_data.get('username')
+                messages.success(request, 'Account Created successfully for '+ user)
+                return redirect('login')
+        context = {'form':form}
+        return render(request, 'register.html',context)
 
     # context = {
     #     'html_table' : html_table,
