@@ -1,5 +1,6 @@
 from django.contrib import admin
-from agroplus.models import Sell
+from agroplus.models import Sell,price
 
 # Register your models here.
 admin.site.register(Sell),
+admin.site.register(price),

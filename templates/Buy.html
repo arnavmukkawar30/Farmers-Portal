@@ -75,10 +75,13 @@
             <div class="line"></div>
             <h4><strong>WHEAT</strong></h4>
             <p><strong> Price :</strong> ₹ 00.00 /-</p>
-            <div class="quantity">
-                <button class="plus" name="Buy" method="post" type="submit" onclick="buywheat"> + </button>
-                <div class="num">Quantity</div>
-                <button class="minus"><strong>-</strong></button>
+            <div class="quantity" style="display: flex;flex-direction: row;justify-content:center;align-items:center;">
+                <p><strong> Quantity :</strong></p>
+                <!-- <button class="plus"> + </button> -->
+                <div class="val">
+                    <input type="number" min="0" max="10" step="1" placeholder="in Kg" name="Quantity" />
+                </div>
+                <!-- <button class="minus"><strong>-</strong></button> -->
             </div>
             <button class="button-buy">ADD TO CART</button>
 
@@ -108,10 +111,13 @@
             <div class="line"></div>
             <h4><strong>JOWAR</strong></h4>
             <p><strong> Price :</strong> ₹ 00.00 /-</p>
-            <div class="quantity">
-                <button class="plus"> + </button>
-                <div class="num">Quantity</div>
-                <button class="minus"><strong>-</strong></button>
+            <div class="quantity" style="display: flex;flex-direction: row;justify-content:center;align-items:center;">
+                <p><strong> Quantity :</strong></p>
+                <!-- <button class="plus"> + </button> -->
+                <div class="val">
+                    <input type="number" min="0" max="10" step="1" placeholder="in Kg" name="Quantity" />
+                </div>
+                <!-- <button class="minus"><strong>-</strong></button> -->
             </div>
             <button class="button-buy">ADD TO CART</button>
 
@@ -123,10 +129,13 @@
             <div class="line"></div>
             <h4><strong>BAJRA</strong></h4>
             <p><strong> Price :</strong> ₹ 00.00 /-</p>
-            <div class="quantity">
-                <button class="plus"> + </button>
-                <div class="num">Quantity</div>
-                <button class="minus"><strong>-</strong></button>
+            <div class="quantity" style="display: flex;flex-direction: row;justify-content:center;align-items:center;">
+                <p><strong> Quantity :</strong></p>
+                <!-- <button class="plus"> + </button> -->
+                <div class="val">
+                    <input type="number" min="0" max="10" step="1" placeholder="in Kg" name="Quantity" />
+                </div>
+                <!-- <button class="minus"><strong>-</strong></button> -->
             </div>
             <button class="button-buy">ADD TO CART</button>
 
@@ -140,10 +149,13 @@
             <div class="line"></div>
             <h4><strong>{{sell.CropName}}</strong></h4>
             <p><strong> Price : </strong>₹ {{sell.Price}} /-</p>
-            <div class="quantity">
-                <button class="plus"> + </button>
-                <input class="val" type="number" min="0" max="10" step="1" placeholder="Quantity" name="Quantity" />
-                <button class="minus"><strong>-</strong></button>
+            <div class="quantity" style="display: flex;flex-direction: row;justify-content:center;align-items:center;">
+                <p><strong> Quantity :</strong></p>
+                <!-- <button class="plus"> + </button> -->
+                <div class="val">
+                    <input type="number" min="0" max="10" step="1" placeholder="in Kg" name="Quantity" />
+                </div>
+                <!-- <button class="minus"><strong>-</strong></button> -->
             </div>
             <button class="button-buy">ADD TO CART</button>
 

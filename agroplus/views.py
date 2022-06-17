@@ -3,7 +3,7 @@ from agroplus.models import Sell,price
 from datetime import datetime
 import requests
 import pandas as pd 
-import json
+import json,csv
 
 # FOR LOGIN AND LOGOUT 
 
@@ -34,14 +34,17 @@ def SellFun(request):
         CropName = request.POST.get('CropName')
         # Image = request.POST.get('Image')
         Image = request.FILES.get('Image')
-        Price = request.POST.get('Price')
+        # Price = request.POST.get('Price')
         Description = request.POST.get('Description')
         imgpath = request.POST.get('imgpath')
         # imgpath = 'media/'+imgpath
         # if(not Image):
         #     Image= "static/Sell_images/AGROPLUS.png"
-        data2=price.objects.filter(CropName=CropName)
-        sell = Sell(SellerName=SellerName,CropName=CropName,Image=Image,Price=Price,Description=Description,imgpath=imgpath,date=datetime.now())
+        # data2=price.objects.filter(CropName=CropName)
+        sample_instance = price.objects.get(CropName=CropName)
+        value= sample_instance.Price
+        print(value)
+        sell = Sell(SellerName=SellerName,CropName=CropName,Image=Image,Price=value,Description=Description,imgpath=imgpath,date=datetime.now())
         sell.save()
         return redirect('Buy')
     return render(request, 'Sell.html')
@@ -114,7 +117,11 @@ def registerpage(request):
                 return redirect('login')
         context = {'form':form}
         return render(request, 'register.html',context)
-
+    
+# def pricecal(CropName):
+#     data = price.objects.get(CropName=CropName)
+#     Price = getattr(data, CropName)
+#     return Price
     # context = {
     #     'html_table' : html_table,
     #     'data' : data,
