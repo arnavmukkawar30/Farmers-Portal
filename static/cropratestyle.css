@@ -3,12 +3,11 @@ body {
     background-color: #B4E197;
     padding: 0px;
     margin: 0px;
-    overflow-x: hidden;
 }
 
-.cont {
+nav {
     /* background-color: rgb(255, 255, 255); */
-    width: vw;
+    width: 100%;
     height: 50px;
     margin: 0px;
     display: flex;
@@ -16,9 +15,6 @@ body {
     justify-content: space-between;
     /* background-image: url(../static/paper.png); */
     background-color: #0b8507;
-    position: sticky;
-    top: 0px;
-    left: 0px;
 }
 
 .namelogo {
@@ -33,7 +29,7 @@ body {
     border-radius: 50%;
 }
 
-.cont-name {
+.nav-name {
     margin-left: 10px;
     font-family: 'Dancing Script', cursive;
     font-size: 35px;
@@ -47,127 +43,32 @@ body {
     /* border: 2px solid red; */
 }
 
-.contlist>* {
+.list>* {
     list-style: none;
     display: flex;
     flex-direction: row;
     /* justify-content: flex-end; */
     justify-content: space-between;
-    width: 45vw;
+    width: 55vw;
     padding: 10px 27px 0px 0px;
     font-size: 17px;
 }
 
-.cont-item:hover {
-    font-size: 20px;
-    transition-duration: 0.5s;
+.nav-item:hover {
+    /* font-size: 20px; */
+    transition-duration: 0.2s;
     /* box-shadow: inset 160px 0 0 0 #a4d654; */
     border-bottom: 2px solid #ffffff;
     /* background-color: #435f84; */
     /* border-radius: 5px; */
 }
 
-.cont-item a>* {
+a {
     text-decoration: none;
     color: white;
 }
 
-.cont-item a:hover {
+a:hover {
     /* color: rgb(207, 205, 205); */
     color: #fff
-}
-
-.eco-image {
-    height: 10%;
-    width: 100%;
-}
-
-.form {
-    width: 100vw;
-    /* height: 90vh; */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-form {
-    width: 45%;
-    border-radius: 20px;
-    background: #0b850792;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 20px 0px;
-    padding: 20px 0px;
-    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.198);
-}
-
-form>* {
-    width: 80%;
-}
-
-form>.inputgrp {
-    margin: 10px 0px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 5px 40px;
-}
-
-form>.inputgrp input {
-    border-radius: 0px;
-    border: 0px;
-    border-bottom: 1px solid white;
-    color: white;
-    background-color: transparent;
-}
-
-form>.inputgrp label {
-    color: white;
-    font-size: 18px;
-}
-
-form>.inputgrp #Image button {
-    /* display: none; */
-    border: none;
-}
-
-form>.inputgrp .imageupload {
-    text-align: center;
-    display: flex;
-    justify-content: space-around;
-    padding-bottom: 10px;
-    border-bottom: 2px solid white;
-}
-
-form>.inputgrp .imageupload input {
-    width: 50%;
-    border: 0px;
-}
-
-form>.inputgrp .uploadImage,
-button {
-    padding: 7px 7px;
-    cursor: pointer;
-    background-color: #B4E197;
-    color: #0b8507;
-    border-radius: 7px;
-    transition: all;
-    transition-duration: 0.7s;
-    border: 0px;
-}
-
-form>.inputgrp .uploadImage:hover,
-button:hover {
-    padding: 10px 10px;
-    background-color: #0b8507;
-    cursor: pointer;
-    color: white;
-    box-shadow: 1px 1px 10px #0b8507;
-}
-
-form>.inputgrp .imageupload {
-    display: flex;
-    flex-direction: row;
 }
