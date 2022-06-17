@@ -33,7 +33,7 @@ body {
     border-radius: 50%;
 }
 
-.nav-name {
+.cont-name {
     margin-left: 10px;
     font-family: 'Dancing Script', cursive;
     font-size: 35px;
@@ -47,7 +47,7 @@ body {
     /* border: 2px solid red; */
 }
 
-.list>* {
+.contlist>* {
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -58,7 +58,7 @@ body {
     font-size: 17px;
 }
 
-.nav-item:hover {
+.cont-item:hover {
     font-size: 20px;
     transition-duration: 0.5s;
     /* box-shadow: inset 160px 0 0 0 #a4d654; */
@@ -67,12 +67,12 @@ body {
     /* border-radius: 5px; */
 }
 
-a {
+.cont-item a>* {
     text-decoration: none;
     color: white;
 }
 
-a:hover {
+.cont-item a:hover {
     /* color: rgb(207, 205, 205); */
     color: #fff
 }

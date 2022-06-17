@@ -1,4 +1,4 @@
-State,District,Market,Commodity,Variety,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+State,District,Market,Commodity,Variety,Arrival_Date,Min_Price,Max_Price,Modal_Price
 Maharashtra,Ahmednagar,Kopargaon,"Bengal Gram(Gram)(Whole)",Other,17/06/2022,3501,4240,4100
 Maharashtra,Ahmednagar,Kopargaon,Jowar(Sorghum),Other,17/06/2022,1500,2000,1717
 Maharashtra,Ahmednagar,Kopargaon,Maize,Other,17/06/2022,2100,2320,2299
